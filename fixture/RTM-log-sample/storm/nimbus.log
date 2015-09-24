@@ -1,0 +1,627 @@
+2015-03-18 14:23:34 o.a.z.ZooKeeper [INFO] Client environment:zookeeper.version=3.3.3-1073969, built on 02/23/2011 22:27 GMT
+2015-03-18 14:23:34 o.a.z.ZooKeeper [INFO] Client environment:host.name=bigdata4
+2015-03-18 14:23:34 o.a.z.ZooKeeper [INFO] Client environment:java.version=1.6.0_45
+2015-03-18 14:23:34 o.a.z.ZooKeeper [INFO] Client environment:java.vendor=Sun Microsystems Inc.
+2015-03-18 14:23:34 o.a.z.ZooKeeper [INFO] Client environment:java.home=/usr/java/jdk1.6.0_45/jre
+2015-03-18 14:23:34 o.a.z.ZooKeeper [INFO] Client environment:java.class.path=/home/bigdata/apache-storm-0.9.1-incubating/lib/carbonite-1.3.2.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-fileupload-1.2.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/junit-3.8.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/servlet-api-2.5.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/httpcore-4.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/logback-classic-1.0.6.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/minlog-1.2.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/tools.cli-0.2.2.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/clout-1.0.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/curator-framework-1.0.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/jetty-util-6.1.26.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/curator-client-1.0.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/reflectasm-1.07-shaded.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/httpclient-4.1.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-codec-1.4.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/zookeeper-3.3.3.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/storm-core-0.9.1-incubating.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/clj-stacktrace-0.2.4.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/slf4j-api-1.6.5.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/jline-2.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/clj-time-0.4.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/ring-devel-0.3.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-io-1.4.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/servlet-api-2.5-20081211.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/snakeyaml-1.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/clojure-1.4.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/tools.macro-0.1.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/ring-core-1.1.5.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/hiccup-0.3.6.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/objenesis-1.2.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-logging-1.1.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/core.incubator-0.1.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/logback-core-1.0.6.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/ring-servlet-0.3.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/disruptor-2.10.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-exec-1.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/compojure-1.1.3.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-lang-2.5.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/joda-time-2.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/netty-3.6.3.Final.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/jgrapht-core-0.9.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/json-simple-1.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/jetty-6.1.26.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/tools.logging-0.2.3.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/meat-locker-0.3.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/math.numeric-tower-0.0.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/ring-jetty-adapter-0.3.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/asm-4.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/log4j-over-slf4j-1.6.6.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/guava-13.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/kryo-2.17.jar:/home/bigdata/apache-storm-0.9.1-incubating/conf
+2015-03-18 14:23:34 o.a.z.ZooKeeper [INFO] Client environment:java.library.path=/usr/local/lib:/opt/local/lib:/usr/lib
+2015-03-18 14:23:34 o.a.z.ZooKeeper [INFO] Client environment:java.io.tmpdir=/tmp
+2015-03-18 14:23:34 o.a.z.ZooKeeper [INFO] Client environment:java.compiler=<NA>
+2015-03-18 14:23:34 o.a.z.ZooKeeper [INFO] Client environment:os.name=Linux
+2015-03-18 14:23:34 o.a.z.ZooKeeper [INFO] Client environment:os.arch=amd64
+2015-03-18 14:23:34 o.a.z.ZooKeeper [INFO] Client environment:os.version=3.13.0-24-generic
+2015-03-18 14:23:34 o.a.z.ZooKeeper [INFO] Client environment:user.name=bigdata
+2015-03-18 14:23:34 o.a.z.ZooKeeper [INFO] Client environment:user.home=/home/bigdata
+2015-03-18 14:23:34 o.a.z.ZooKeeper [INFO] Client environment:user.dir=/home/bigdata/apache-storm-0.9.1-incubating/bin
+2015-03-18 14:23:34 o.a.z.s.ZooKeeperServer [INFO] Server environment:zookeeper.version=3.3.3-1073969, built on 02/23/2011 22:27 GMT
+2015-03-18 14:23:34 o.a.z.s.ZooKeeperServer [INFO] Server environment:host.name=bigdata4
+2015-03-18 14:23:34 o.a.z.s.ZooKeeperServer [INFO] Server environment:java.version=1.6.0_45
+2015-03-18 14:23:34 o.a.z.s.ZooKeeperServer [INFO] Server environment:java.vendor=Sun Microsystems Inc.
+2015-03-18 14:23:34 o.a.z.s.ZooKeeperServer [INFO] Server environment:java.home=/usr/java/jdk1.6.0_45/jre
+2015-03-18 14:23:34 o.a.z.s.ZooKeeperServer [INFO] Server environment:java.class.path=/home/bigdata/apache-storm-0.9.1-incubating/lib/carbonite-1.3.2.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-fileupload-1.2.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/junit-3.8.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/servlet-api-2.5.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/httpcore-4.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/logback-classic-1.0.6.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/minlog-1.2.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/tools.cli-0.2.2.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/clout-1.0.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/curator-framework-1.0.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/jetty-util-6.1.26.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/curator-client-1.0.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/reflectasm-1.07-shaded.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/httpclient-4.1.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-codec-1.4.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/zookeeper-3.3.3.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/storm-core-0.9.1-incubating.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/clj-stacktrace-0.2.4.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/slf4j-api-1.6.5.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/jline-2.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/clj-time-0.4.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/ring-devel-0.3.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-io-1.4.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/servlet-api-2.5-20081211.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/snakeyaml-1.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/clojure-1.4.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/tools.macro-0.1.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/ring-core-1.1.5.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/hiccup-0.3.6.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/objenesis-1.2.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-logging-1.1.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/core.incubator-0.1.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/logback-core-1.0.6.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/ring-servlet-0.3.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/disruptor-2.10.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-exec-1.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/compojure-1.1.3.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-lang-2.5.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/joda-time-2.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/netty-3.6.3.Final.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/jgrapht-core-0.9.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/json-simple-1.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/jetty-6.1.26.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/tools.logging-0.2.3.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/meat-locker-0.3.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/math.numeric-tower-0.0.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/ring-jetty-adapter-0.3.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/asm-4.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/log4j-over-slf4j-1.6.6.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/guava-13.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/kryo-2.17.jar:/home/bigdata/apache-storm-0.9.1-incubating/conf
+2015-03-18 14:23:34 o.a.z.s.ZooKeeperServer [INFO] Server environment:java.library.path=/usr/local/lib:/opt/local/lib:/usr/lib
+2015-03-18 14:23:34 o.a.z.s.ZooKeeperServer [INFO] Server environment:java.io.tmpdir=/tmp
+2015-03-18 14:23:34 o.a.z.s.ZooKeeperServer [INFO] Server environment:java.compiler=<NA>
+2015-03-18 14:23:34 o.a.z.s.ZooKeeperServer [INFO] Server environment:os.name=Linux
+2015-03-18 14:23:34 o.a.z.s.ZooKeeperServer [INFO] Server environment:os.arch=amd64
+2015-03-18 14:23:34 o.a.z.s.ZooKeeperServer [INFO] Server environment:os.version=3.13.0-24-generic
+2015-03-18 14:23:34 o.a.z.s.ZooKeeperServer [INFO] Server environment:user.name=bigdata
+2015-03-18 14:23:34 o.a.z.s.ZooKeeperServer [INFO] Server environment:user.home=/home/bigdata
+2015-03-18 14:23:34 o.a.z.s.ZooKeeperServer [INFO] Server environment:user.dir=/home/bigdata/apache-storm-0.9.1-incubating/bin
+2015-03-18 14:23:35 b.s.d.nimbus [INFO] Starting Nimbus with conf {"dev.zookeeper.path" "/tmp/dev-storm-zookeeper", "topology.tick.tuple.freq.secs" nil, "topology.builtin.metrics.bucket.size.secs" 60, "topology.fall.back.on.java.serialization" true, "topology.max.error.report.per.interval" 5, "zmq.linger.millis" 5000, "topology.skip.missing.kryo.registrations" false, "storm.messaging.netty.client_worker_threads" 1, "ui.childopts" "-Xmx768m", "storm.zookeeper.session.timeout" 400000, "nimbus.reassign" true, "topology.trident.batch.emit.interval.millis" 500, "nimbus.monitor.freq.secs" 100, "logviewer.childopts" "-Xmx128m", "java.library.path" "/usr/local/lib:/opt/local/lib:/usr/lib", "topology.executor.send.buffer.size" 1024, "storm.local.dir" "/tmp/storm", "storm.messaging.netty.buffer_size" 209715200, "supervisor.worker.start.timeout.secs" 240, "topology.enable.message.timeouts" true, "nimbus.cleanup.inbox.freq.secs" 600, "nimbus.inbox.jar.expiration.secs" 3600, "drpc.worker.threads" 64, "topology.worker.shared.thread.pool.size" 4, "nimbus.host" "bigdata4", "storm.messaging.netty.min_wait_ms" 1000, "storm.zookeeper.port" 2181, "transactional.zookeeper.port" nil, "topology.executor.receive.buffer.size" 1024, "transactional.zookeeper.servers" nil, "storm.zookeeper.root" "/storm", "storm.zookeeper.retry.intervalceiling.millis" 30000, "supervisor.enable" true, "storm.messaging.netty.server_worker_threads" 1, "storm.zookeeper.servers" ["bigdata2" "bigdata3" "bigdata4"], "transactional.zookeeper.root" "/transactional", "topology.acker.executors" nil, "topology.transfer.buffer.size" 1024, "topology.worker.childopts" nil, "drpc.queue.size" 128, "worker.childopts" "-Xms4096M -Xmx4096M -Xmn512M -Xss256k -XX:PermSize=512M", "supervisor.heartbeat.frequency.secs" 5, "topology.error.throttle.interval.secs" 10, "zmq.hwm" 0, "drpc.port" 3772, "supervisor.monitor.frequency.secs" 3, "drpc.childopts" "-Xmx768m", "topology.receiver.buffer.size" 8, "task.heartbeat.frequency.secs" 5, "topology.tasks" nil, "storm.messaging.netty.max_retries" 100, "topology.spout.wait.strategy" "backtype.storm.spout.SleepSpoutWaitStrategy", "nimbus.thrift.max_buffer_size" 1048576, "topology.max.spout.pending" nil, "storm.zookeeper.retry.interval" 1000, "topology.sleep.spout.wait.strategy.time.ms" 1, "nimbus.topology.validator" "backtype.storm.nimbus.DefaultTopologyValidator", "supervisor.slots.ports" [8700 8701 8702], "topology.debug" false, "nimbus.task.launch.secs" 100, "nimbus.supervisor.timeout.secs" 600, "topology.message.timeout.secs" 60, "task.refresh.poll.secs" 10, "topology.workers" 1, "supervisor.childopts" "-Xmx256m", "nimbus.thrift.port" 6627, "topology.stats.sample.rate" 0.05, "worker.heartbeat.frequency.secs" 3, "topology.tuple.serializer" "backtype.storm.serialization.types.ListDelegateSerializer", "topology.disruptor.wait.strategy" "com.lmax.disruptor.BlockingWaitStrategy", "nimbus.task.timeout.secs" 3000, "storm.zookeeper.connection.timeout" 15000, "topology.kryo.factory" "backtype.storm.serialization.DefaultKryoFactory", "drpc.invocations.port" 3773, "logviewer.port" 8083, "zmq.threads" 1, "storm.zookeeper.retry.times" 5, "storm.thrift.transport" "backtype.storm.security.auth.SimpleTransportPlugin", "topology.state.synchronization.timeout.secs" 60, "supervisor.worker.timeout.secs" 60, "nimbus.file.copy.expiration.secs" 600, "storm.messaging.transport" "backtype.storm.messaging.netty.Context", "logviewer.appender.name" "A1", "storm.messaging.netty.max_wait_ms" 10000, "drpc.request.timeout.secs" 600, "storm.local.mode.zmq" false, "ui.port" 8082, "nimbus.childopts" "-Xmx1024m", "storm.cluster.mode" "distributed", "topology.optimize" true, "topology.max.task.parallelism" nil}
+2015-03-18 14:23:35 b.s.d.nimbus [INFO] Using default scheduler
+2015-03-18 14:23:35 c.n.c.f.i.CuratorFrameworkImpl [INFO] Starting
+2015-03-18 14:23:35 o.a.z.ZooKeeper [INFO] Initiating client connection, connectString=bigdata2:2181,bigdata3:2181,bigdata4:2181 sessionTimeout=400000 watcher=com.netflix.curator.ConnectionState@4701bb2c
+2015-03-18 14:23:35 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata3/172.31.24.3:2181
+2015-03-18 14:23:35 o.a.z.ClientCnxn [INFO] Socket connection established to bigdata3/172.31.24.3:2181, initiating session
+2015-03-18 14:23:35 o.a.z.ClientCnxn [INFO] Session establishment complete on server bigdata3/172.31.24.3:2181, sessionid = 0x34c2b6c76670003, negotiated timeout = 400000
+2015-03-18 14:23:35 b.s.zookeeper [INFO] Zookeeper state update: :connected:none
+2015-03-18 14:23:35 o.a.z.ZooKeeper [INFO] Session: 0x34c2b6c76670003 closed
+2015-03-18 14:23:35 o.a.z.ClientCnxn [INFO] EventThread shut down
+2015-03-18 14:23:35 c.n.c.f.i.CuratorFrameworkImpl [INFO] Starting
+2015-03-18 14:23:35 o.a.z.ZooKeeper [INFO] Initiating client connection, connectString=bigdata2:2181,bigdata3:2181,bigdata4:2181/storm sessionTimeout=400000 watcher=com.netflix.curator.ConnectionState@7c1c2956
+2015-03-18 14:23:35 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata2/172.31.24.2:2181
+2015-03-18 14:23:35 o.a.z.ClientCnxn [INFO] Socket connection established to bigdata2/172.31.24.2:2181, initiating session
+2015-03-18 14:23:35 o.a.z.ClientCnxn [INFO] Session establishment complete on server bigdata2/172.31.24.2:2181, sessionid = 0x24c2b6dccbf0000, negotiated timeout = 400000
+2015-03-18 14:23:35 b.s.d.nimbus [INFO] Starting Nimbus server...
+2015-03-18 14:23:36 b.s.d.nimbus [INFO] Cleaning up mytopology1-1-1406788561
+2015-03-18 14:56:02 b.s.d.nimbus [INFO] Shutting down master
+2015-03-18 14:56:02 o.a.z.ZooKeeper [INFO] Session: 0x24c2b6dccbf0000 closed
+2015-03-18 14:56:02 o.a.z.ClientCnxn [INFO] EventThread shut down
+2015-03-18 14:56:02 b.s.d.nimbus [INFO] Shut down master
+2015-04-07 14:32:42 o.a.z.ZooKeeper [INFO] Client environment:zookeeper.version=3.3.3-1073969, built on 02/23/2011 22:27 GMT
+2015-04-07 14:32:42 o.a.z.ZooKeeper [INFO] Client environment:host.name=bigdata4
+2015-04-07 14:32:42 o.a.z.ZooKeeper [INFO] Client environment:java.version=1.6.0_45
+2015-04-07 14:32:42 o.a.z.ZooKeeper [INFO] Client environment:java.vendor=Sun Microsystems Inc.
+2015-04-07 14:32:42 o.a.z.ZooKeeper [INFO] Client environment:java.home=/usr/java/jdk1.6.0_45/jre
+2015-04-07 14:32:42 o.a.z.ZooKeeper [INFO] Client environment:java.class.path=/home/bigdata/apache-storm-0.9.1-incubating/lib/carbonite-1.3.2.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-fileupload-1.2.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/junit-3.8.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/servlet-api-2.5.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/httpcore-4.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/logback-classic-1.0.6.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/minlog-1.2.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/tools.cli-0.2.2.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/clout-1.0.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/curator-framework-1.0.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/jetty-util-6.1.26.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/curator-client-1.0.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/reflectasm-1.07-shaded.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/httpclient-4.1.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-codec-1.4.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/zookeeper-3.3.3.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/storm-core-0.9.1-incubating.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/clj-stacktrace-0.2.4.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/slf4j-api-1.6.5.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/jline-2.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/clj-time-0.4.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/ring-devel-0.3.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-io-1.4.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/servlet-api-2.5-20081211.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/snakeyaml-1.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/clojure-1.4.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/tools.macro-0.1.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/ring-core-1.1.5.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/hiccup-0.3.6.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/objenesis-1.2.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-logging-1.1.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/core.incubator-0.1.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/logback-core-1.0.6.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/ring-servlet-0.3.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/disruptor-2.10.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-exec-1.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/compojure-1.1.3.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-lang-2.5.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/joda-time-2.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/netty-3.6.3.Final.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/jgrapht-core-0.9.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/json-simple-1.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/jetty-6.1.26.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/tools.logging-0.2.3.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/meat-locker-0.3.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/math.numeric-tower-0.0.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/ring-jetty-adapter-0.3.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/asm-4.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/log4j-over-slf4j-1.6.6.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/guava-13.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/kryo-2.17.jar:/home/bigdata/apache-storm-0.9.1-incubating/conf
+2015-04-07 14:32:42 o.a.z.ZooKeeper [INFO] Client environment:java.library.path=/usr/local/lib:/opt/local/lib:/usr/lib
+2015-04-07 14:32:42 o.a.z.ZooKeeper [INFO] Client environment:java.io.tmpdir=/tmp
+2015-04-07 14:32:42 o.a.z.ZooKeeper [INFO] Client environment:java.compiler=<NA>
+2015-04-07 14:32:42 o.a.z.ZooKeeper [INFO] Client environment:os.name=Linux
+2015-04-07 14:32:42 o.a.z.ZooKeeper [INFO] Client environment:os.arch=amd64
+2015-04-07 14:32:42 o.a.z.ZooKeeper [INFO] Client environment:os.version=3.13.0-24-generic
+2015-04-07 14:32:42 o.a.z.ZooKeeper [INFO] Client environment:user.name=bigdata
+2015-04-07 14:32:42 o.a.z.ZooKeeper [INFO] Client environment:user.home=/home/bigdata
+2015-04-07 14:32:42 o.a.z.ZooKeeper [INFO] Client environment:user.dir=/home/bigdata/apache-storm-0.9.1-incubating/bin
+2015-04-07 14:32:42 o.a.z.s.ZooKeeperServer [INFO] Server environment:zookeeper.version=3.3.3-1073969, built on 02/23/2011 22:27 GMT
+2015-04-07 14:32:42 o.a.z.s.ZooKeeperServer [INFO] Server environment:host.name=bigdata4
+2015-04-07 14:32:42 o.a.z.s.ZooKeeperServer [INFO] Server environment:java.version=1.6.0_45
+2015-04-07 14:32:42 o.a.z.s.ZooKeeperServer [INFO] Server environment:java.vendor=Sun Microsystems Inc.
+2015-04-07 14:32:42 o.a.z.s.ZooKeeperServer [INFO] Server environment:java.home=/usr/java/jdk1.6.0_45/jre
+2015-04-07 14:32:42 o.a.z.s.ZooKeeperServer [INFO] Server environment:java.class.path=/home/bigdata/apache-storm-0.9.1-incubating/lib/carbonite-1.3.2.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-fileupload-1.2.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/junit-3.8.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/servlet-api-2.5.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/httpcore-4.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/logback-classic-1.0.6.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/minlog-1.2.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/tools.cli-0.2.2.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/clout-1.0.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/curator-framework-1.0.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/jetty-util-6.1.26.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/curator-client-1.0.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/reflectasm-1.07-shaded.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/httpclient-4.1.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-codec-1.4.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/zookeeper-3.3.3.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/storm-core-0.9.1-incubating.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/clj-stacktrace-0.2.4.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/slf4j-api-1.6.5.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/jline-2.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/clj-time-0.4.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/ring-devel-0.3.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-io-1.4.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/servlet-api-2.5-20081211.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/snakeyaml-1.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/clojure-1.4.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/tools.macro-0.1.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/ring-core-1.1.5.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/hiccup-0.3.6.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/objenesis-1.2.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-logging-1.1.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/core.incubator-0.1.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/logback-core-1.0.6.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/ring-servlet-0.3.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/disruptor-2.10.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-exec-1.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/compojure-1.1.3.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-lang-2.5.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/joda-time-2.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/netty-3.6.3.Final.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/jgrapht-core-0.9.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/json-simple-1.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/jetty-6.1.26.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/tools.logging-0.2.3.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/meat-locker-0.3.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/math.numeric-tower-0.0.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/ring-jetty-adapter-0.3.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/asm-4.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/log4j-over-slf4j-1.6.6.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/guava-13.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/kryo-2.17.jar:/home/bigdata/apache-storm-0.9.1-incubating/conf
+2015-04-07 14:32:42 o.a.z.s.ZooKeeperServer [INFO] Server environment:java.library.path=/usr/local/lib:/opt/local/lib:/usr/lib
+2015-04-07 14:32:42 o.a.z.s.ZooKeeperServer [INFO] Server environment:java.io.tmpdir=/tmp
+2015-04-07 14:32:42 o.a.z.s.ZooKeeperServer [INFO] Server environment:java.compiler=<NA>
+2015-04-07 14:32:42 o.a.z.s.ZooKeeperServer [INFO] Server environment:os.name=Linux
+2015-04-07 14:32:42 o.a.z.s.ZooKeeperServer [INFO] Server environment:os.arch=amd64
+2015-04-07 14:32:42 o.a.z.s.ZooKeeperServer [INFO] Server environment:os.version=3.13.0-24-generic
+2015-04-07 14:32:42 o.a.z.s.ZooKeeperServer [INFO] Server environment:user.name=bigdata
+2015-04-07 14:32:42 o.a.z.s.ZooKeeperServer [INFO] Server environment:user.home=/home/bigdata
+2015-04-07 14:32:42 o.a.z.s.ZooKeeperServer [INFO] Server environment:user.dir=/home/bigdata/apache-storm-0.9.1-incubating/bin
+2015-04-07 14:32:44 b.s.d.nimbus [INFO] Starting Nimbus with conf {"dev.zookeeper.path" "/tmp/dev-storm-zookeeper", "topology.tick.tuple.freq.secs" nil, "topology.builtin.metrics.bucket.size.secs" 60, "topology.fall.back.on.java.serialization" true, "topology.max.error.report.per.interval" 5, "zmq.linger.millis" 5000, "topology.skip.missing.kryo.registrations" false, "storm.messaging.netty.client_worker_threads" 1, "ui.childopts" "-Xmx768m", "storm.zookeeper.session.timeout" 400000, "nimbus.reassign" true, "topology.trident.batch.emit.interval.millis" 500, "nimbus.monitor.freq.secs" 100, "logviewer.childopts" "-Xmx128m", "java.library.path" "/usr/local/lib:/opt/local/lib:/usr/lib", "topology.executor.send.buffer.size" 1024, "storm.local.dir" "/tmp/storm", "storm.messaging.netty.buffer_size" 209715200, "supervisor.worker.start.timeout.secs" 240, "topology.enable.message.timeouts" true, "nimbus.cleanup.inbox.freq.secs" 600, "nimbus.inbox.jar.expiration.secs" 3600, "drpc.worker.threads" 64, "topology.worker.shared.thread.pool.size" 4, "nimbus.host" "bigdata4", "storm.messaging.netty.min_wait_ms" 1000, "storm.zookeeper.port" 2181, "transactional.zookeeper.port" nil, "topology.executor.receive.buffer.size" 1024, "transactional.zookeeper.servers" nil, "storm.zookeeper.root" "/storm", "storm.zookeeper.retry.intervalceiling.millis" 30000, "supervisor.enable" true, "storm.messaging.netty.server_worker_threads" 1, "storm.zookeeper.servers" ["bigdata2" "bigdata3" "bigdata4"], "transactional.zookeeper.root" "/transactional", "topology.acker.executors" nil, "topology.transfer.buffer.size" 1024, "topology.worker.childopts" nil, "drpc.queue.size" 128, "worker.childopts" "-Xms4096M -Xmx4096M -Xmn512M -Xss256k -XX:PermSize=512M", "supervisor.heartbeat.frequency.secs" 5, "topology.error.throttle.interval.secs" 10, "zmq.hwm" 0, "drpc.port" 3772, "supervisor.monitor.frequency.secs" 3, "drpc.childopts" "-Xmx768m", "topology.receiver.buffer.size" 8, "task.heartbeat.frequency.secs" 5, "topology.tasks" nil, "storm.messaging.netty.max_retries" 100, "topology.spout.wait.strategy" "backtype.storm.spout.SleepSpoutWaitStrategy", "nimbus.thrift.max_buffer_size" 1048576, "topology.max.spout.pending" nil, "storm.zookeeper.retry.interval" 1000, "topology.sleep.spout.wait.strategy.time.ms" 1, "nimbus.topology.validator" "backtype.storm.nimbus.DefaultTopologyValidator", "supervisor.slots.ports" [8700 8701 8702], "topology.debug" false, "nimbus.task.launch.secs" 100, "nimbus.supervisor.timeout.secs" 600, "topology.message.timeout.secs" 60, "task.refresh.poll.secs" 10, "topology.workers" 1, "supervisor.childopts" "-Xmx256m", "nimbus.thrift.port" 6627, "topology.stats.sample.rate" 0.05, "worker.heartbeat.frequency.secs" 3, "topology.tuple.serializer" "backtype.storm.serialization.types.ListDelegateSerializer", "topology.disruptor.wait.strategy" "com.lmax.disruptor.BlockingWaitStrategy", "nimbus.task.timeout.secs" 3000, "storm.zookeeper.connection.timeout" 15000, "topology.kryo.factory" "backtype.storm.serialization.DefaultKryoFactory", "drpc.invocations.port" 3773, "logviewer.port" 8083, "zmq.threads" 1, "storm.zookeeper.retry.times" 5, "storm.thrift.transport" "backtype.storm.security.auth.SimpleTransportPlugin", "topology.state.synchronization.timeout.secs" 60, "supervisor.worker.timeout.secs" 60, "nimbus.file.copy.expiration.secs" 600, "storm.messaging.transport" "backtype.storm.messaging.netty.Context", "logviewer.appender.name" "A1", "storm.messaging.netty.max_wait_ms" 10000, "drpc.request.timeout.secs" 600, "storm.local.mode.zmq" false, "ui.port" 8082, "nimbus.childopts" "-Xmx1024m", "storm.cluster.mode" "distributed", "topology.optimize" true, "topology.max.task.parallelism" nil}
+2015-04-07 14:32:44 b.s.d.nimbus [INFO] Using default scheduler
+2015-04-07 14:32:44 c.n.c.f.i.CuratorFrameworkImpl [INFO] Starting
+2015-04-07 14:32:44 o.a.z.ZooKeeper [INFO] Initiating client connection, connectString=bigdata2:2181,bigdata3:2181,bigdata4:2181 sessionTimeout=400000 watcher=com.netflix.curator.ConnectionState@11c0f73a
+2015-04-07 14:32:44 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata2/172.31.24.2:2181
+2015-04-07 14:32:44 o.a.z.ClientCnxn [INFO] Socket connection established to bigdata2/172.31.24.2:2181, initiating session
+2015-04-07 14:32:44 o.a.z.ClientCnxn [INFO] Session establishment complete on server bigdata2/172.31.24.2:2181, sessionid = 0x24c5554916c0000, negotiated timeout = 400000
+2015-04-07 14:32:44 b.s.zookeeper [INFO] Zookeeper state update: :connected:none
+2015-04-07 14:32:44 o.a.z.ZooKeeper [INFO] Session: 0x24c5554916c0000 closed
+2015-04-07 14:32:44 o.a.z.ClientCnxn [INFO] EventThread shut down
+2015-04-07 14:32:44 c.n.c.f.i.CuratorFrameworkImpl [INFO] Starting
+2015-04-07 14:32:44 o.a.z.ZooKeeper [INFO] Initiating client connection, connectString=bigdata2:2181,bigdata3:2181,bigdata4:2181/storm sessionTimeout=400000 watcher=com.netflix.curator.ConnectionState@3b005abc
+2015-04-07 14:32:44 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata4/172.31.24.4:2181
+2015-04-07 14:32:44 o.a.z.ClientCnxn [INFO] Socket connection established to bigdata4/172.31.24.4:2181, initiating session
+2015-04-07 14:32:44 o.a.z.ClientCnxn [INFO] Session establishment complete on server bigdata4/172.31.24.4:2181, sessionid = 0x44c555478300000, negotiated timeout = 400000
+2015-04-07 14:32:44 b.s.d.nimbus [INFO] Starting Nimbus server...
+2015-04-07 14:42:29 o.a.z.ZooKeeper [INFO] Client environment:zookeeper.version=3.3.3-1073969, built on 02/23/2011 22:27 GMT
+2015-04-07 14:42:29 o.a.z.ZooKeeper [INFO] Client environment:host.name=bigdata4
+2015-04-07 14:42:29 o.a.z.ZooKeeper [INFO] Client environment:java.version=1.6.0_45
+2015-04-07 14:42:29 o.a.z.ZooKeeper [INFO] Client environment:java.vendor=Sun Microsystems Inc.
+2015-04-07 14:42:29 o.a.z.ZooKeeper [INFO] Client environment:java.home=/usr/java/jdk1.6.0_45/jre
+2015-04-07 14:42:29 o.a.z.ZooKeeper [INFO] Client environment:java.class.path=/home/bigdata/apache-storm-0.9.1-incubating/lib/carbonite-1.3.2.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-fileupload-1.2.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/junit-3.8.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/servlet-api-2.5.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/httpcore-4.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/logback-classic-1.0.6.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/minlog-1.2.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/tools.cli-0.2.2.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/clout-1.0.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/curator-framework-1.0.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/jetty-util-6.1.26.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/curator-client-1.0.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/reflectasm-1.07-shaded.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/httpclient-4.1.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-codec-1.4.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/zookeeper-3.3.3.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/storm-core-0.9.1-incubating.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/clj-stacktrace-0.2.4.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/slf4j-api-1.6.5.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/jline-2.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/clj-time-0.4.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/ring-devel-0.3.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-io-1.4.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/servlet-api-2.5-20081211.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/snakeyaml-1.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/clojure-1.4.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/tools.macro-0.1.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/ring-core-1.1.5.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/hiccup-0.3.6.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/objenesis-1.2.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-logging-1.1.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/core.incubator-0.1.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/logback-core-1.0.6.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/ring-servlet-0.3.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/disruptor-2.10.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-exec-1.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/compojure-1.1.3.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-lang-2.5.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/joda-time-2.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/netty-3.6.3.Final.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/jgrapht-core-0.9.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/json-simple-1.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/jetty-6.1.26.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/tools.logging-0.2.3.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/meat-locker-0.3.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/math.numeric-tower-0.0.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/ring-jetty-adapter-0.3.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/asm-4.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/log4j-over-slf4j-1.6.6.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/guava-13.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/kryo-2.17.jar:/home/bigdata/apache-storm-0.9.1-incubating/conf
+2015-04-07 14:42:29 o.a.z.ZooKeeper [INFO] Client environment:java.library.path=/usr/local/lib:/opt/local/lib:/usr/lib
+2015-04-07 14:42:29 o.a.z.ZooKeeper [INFO] Client environment:java.io.tmpdir=/tmp
+2015-04-07 14:42:29 o.a.z.ZooKeeper [INFO] Client environment:java.compiler=<NA>
+2015-04-07 14:42:29 o.a.z.ZooKeeper [INFO] Client environment:os.name=Linux
+2015-04-07 14:42:29 o.a.z.ZooKeeper [INFO] Client environment:os.arch=amd64
+2015-04-07 14:42:29 o.a.z.ZooKeeper [INFO] Client environment:os.version=3.13.0-24-generic
+2015-04-07 14:42:29 o.a.z.ZooKeeper [INFO] Client environment:user.name=bigdata
+2015-04-07 14:42:29 o.a.z.ZooKeeper [INFO] Client environment:user.home=/home/bigdata
+2015-04-07 14:42:29 o.a.z.ZooKeeper [INFO] Client environment:user.dir=/home/bigdata/apache-storm-0.9.1-incubating/bin
+2015-04-07 14:42:29 o.a.z.s.ZooKeeperServer [INFO] Server environment:zookeeper.version=3.3.3-1073969, built on 02/23/2011 22:27 GMT
+2015-04-07 14:42:29 o.a.z.s.ZooKeeperServer [INFO] Server environment:host.name=bigdata4
+2015-04-07 14:42:29 o.a.z.s.ZooKeeperServer [INFO] Server environment:java.version=1.6.0_45
+2015-04-07 14:42:29 o.a.z.s.ZooKeeperServer [INFO] Server environment:java.vendor=Sun Microsystems Inc.
+2015-04-07 14:42:29 o.a.z.s.ZooKeeperServer [INFO] Server environment:java.home=/usr/java/jdk1.6.0_45/jre
+2015-04-07 14:42:29 o.a.z.s.ZooKeeperServer [INFO] Server environment:java.class.path=/home/bigdata/apache-storm-0.9.1-incubating/lib/carbonite-1.3.2.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-fileupload-1.2.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/junit-3.8.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/servlet-api-2.5.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/httpcore-4.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/logback-classic-1.0.6.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/minlog-1.2.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/tools.cli-0.2.2.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/clout-1.0.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/curator-framework-1.0.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/jetty-util-6.1.26.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/curator-client-1.0.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/reflectasm-1.07-shaded.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/httpclient-4.1.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-codec-1.4.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/zookeeper-3.3.3.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/storm-core-0.9.1-incubating.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/clj-stacktrace-0.2.4.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/slf4j-api-1.6.5.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/jline-2.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/clj-time-0.4.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/ring-devel-0.3.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-io-1.4.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/servlet-api-2.5-20081211.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/snakeyaml-1.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/clojure-1.4.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/tools.macro-0.1.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/ring-core-1.1.5.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/hiccup-0.3.6.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/objenesis-1.2.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-logging-1.1.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/core.incubator-0.1.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/logback-core-1.0.6.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/ring-servlet-0.3.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/disruptor-2.10.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-exec-1.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/compojure-1.1.3.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/commons-lang-2.5.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/joda-time-2.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/netty-3.6.3.Final.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/jgrapht-core-0.9.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/json-simple-1.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/jetty-6.1.26.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/tools.logging-0.2.3.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/meat-locker-0.3.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/math.numeric-tower-0.0.1.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/ring-jetty-adapter-0.3.11.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/asm-4.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/log4j-over-slf4j-1.6.6.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/guava-13.0.jar:/home/bigdata/apache-storm-0.9.1-incubating/lib/kryo-2.17.jar:/home/bigdata/apache-storm-0.9.1-incubating/conf
+2015-04-07 14:42:29 o.a.z.s.ZooKeeperServer [INFO] Server environment:java.library.path=/usr/local/lib:/opt/local/lib:/usr/lib
+2015-04-07 14:42:29 o.a.z.s.ZooKeeperServer [INFO] Server environment:java.io.tmpdir=/tmp
+2015-04-07 14:42:29 o.a.z.s.ZooKeeperServer [INFO] Server environment:java.compiler=<NA>
+2015-04-07 14:42:29 o.a.z.s.ZooKeeperServer [INFO] Server environment:os.name=Linux
+2015-04-07 14:42:29 o.a.z.s.ZooKeeperServer [INFO] Server environment:os.arch=amd64
+2015-04-07 14:42:29 o.a.z.s.ZooKeeperServer [INFO] Server environment:os.version=3.13.0-24-generic
+2015-04-07 14:42:29 o.a.z.s.ZooKeeperServer [INFO] Server environment:user.name=bigdata
+2015-04-07 14:42:29 o.a.z.s.ZooKeeperServer [INFO] Server environment:user.home=/home/bigdata
+2015-04-07 14:42:29 o.a.z.s.ZooKeeperServer [INFO] Server environment:user.dir=/home/bigdata/apache-storm-0.9.1-incubating/bin
+2015-04-07 14:42:30 b.s.d.nimbus [INFO] Starting Nimbus with conf {"dev.zookeeper.path" "/tmp/dev-storm-zookeeper", "topology.tick.tuple.freq.secs" nil, "topology.builtin.metrics.bucket.size.secs" 60, "topology.fall.back.on.java.serialization" true, "topology.max.error.report.per.interval" 5, "zmq.linger.millis" 5000, "topology.skip.missing.kryo.registrations" false, "storm.messaging.netty.client_worker_threads" 1, "ui.childopts" "-Xmx768m", "storm.zookeeper.session.timeout" 400000, "nimbus.reassign" true, "topology.trident.batch.emit.interval.millis" 500, "nimbus.monitor.freq.secs" 100, "logviewer.childopts" "-Xmx128m", "java.library.path" "/usr/local/lib:/opt/local/lib:/usr/lib", "topology.executor.send.buffer.size" 1024, "storm.local.dir" "/tmp/storm", "storm.messaging.netty.buffer_size" 209715200, "supervisor.worker.start.timeout.secs" 240, "topology.enable.message.timeouts" true, "nimbus.cleanup.inbox.freq.secs" 600, "nimbus.inbox.jar.expiration.secs" 3600, "drpc.worker.threads" 64, "topology.worker.shared.thread.pool.size" 4, "nimbus.host" "bigdata4", "storm.messaging.netty.min_wait_ms" 1000, "storm.zookeeper.port" 2181, "transactional.zookeeper.port" nil, "topology.executor.receive.buffer.size" 1024, "transactional.zookeeper.servers" nil, "storm.zookeeper.root" "/storm", "storm.zookeeper.retry.intervalceiling.millis" 30000, "supervisor.enable" true, "storm.messaging.netty.server_worker_threads" 1, "storm.zookeeper.servers" ["bigdata2" "bigdata3" "bigdata4"], "transactional.zookeeper.root" "/transactional", "topology.acker.executors" nil, "topology.transfer.buffer.size" 1024, "topology.worker.childopts" nil, "drpc.queue.size" 128, "worker.childopts" "-Xms4096M -Xmx4096M -Xmn512M -Xss256k -XX:PermSize=512M", "supervisor.heartbeat.frequency.secs" 5, "topology.error.throttle.interval.secs" 10, "zmq.hwm" 0, "drpc.port" 3772, "supervisor.monitor.frequency.secs" 3, "drpc.childopts" "-Xmx768m", "topology.receiver.buffer.size" 8, "task.heartbeat.frequency.secs" 5, "topology.tasks" nil, "storm.messaging.netty.max_retries" 100, "topology.spout.wait.strategy" "backtype.storm.spout.SleepSpoutWaitStrategy", "nimbus.thrift.max_buffer_size" 1048576, "topology.max.spout.pending" nil, "storm.zookeeper.retry.interval" 1000, "topology.sleep.spout.wait.strategy.time.ms" 1, "nimbus.topology.validator" "backtype.storm.nimbus.DefaultTopologyValidator", "supervisor.slots.ports" [8700 8701 8702], "topology.debug" false, "nimbus.task.launch.secs" 100, "nimbus.supervisor.timeout.secs" 600, "topology.message.timeout.secs" 60, "task.refresh.poll.secs" 10, "topology.workers" 1, "supervisor.childopts" "-Xmx256m", "nimbus.thrift.port" 6627, "topology.stats.sample.rate" 0.05, "worker.heartbeat.frequency.secs" 3, "topology.tuple.serializer" "backtype.storm.serialization.types.ListDelegateSerializer", "topology.disruptor.wait.strategy" "com.lmax.disruptor.BlockingWaitStrategy", "nimbus.task.timeout.secs" 3000, "storm.zookeeper.connection.timeout" 15000, "topology.kryo.factory" "backtype.storm.serialization.DefaultKryoFactory", "drpc.invocations.port" 3773, "logviewer.port" 8083, "zmq.threads" 1, "storm.zookeeper.retry.times" 5, "storm.thrift.transport" "backtype.storm.security.auth.SimpleTransportPlugin", "topology.state.synchronization.timeout.secs" 60, "supervisor.worker.timeout.secs" 60, "nimbus.file.copy.expiration.secs" 600, "storm.messaging.transport" "backtype.storm.messaging.netty.Context", "logviewer.appender.name" "A1", "storm.messaging.netty.max_wait_ms" 10000, "drpc.request.timeout.secs" 600, "storm.local.mode.zmq" false, "ui.port" 8082, "nimbus.childopts" "-Xmx1024m", "storm.cluster.mode" "distributed", "topology.optimize" true, "topology.max.task.parallelism" nil}
+2015-04-07 14:42:30 b.s.d.nimbus [INFO] Using default scheduler
+2015-04-07 14:42:30 c.n.c.f.i.CuratorFrameworkImpl [INFO] Starting
+2015-04-07 14:42:30 o.a.z.ZooKeeper [INFO] Initiating client connection, connectString=bigdata2:2181,bigdata3:2181,bigdata4:2181 sessionTimeout=400000 watcher=com.netflix.curator.ConnectionState@34ea95e0
+2015-04-07 14:42:30 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata4/172.31.24.4:2181
+2015-04-07 14:42:30 o.a.z.ClientCnxn [INFO] Socket connection established to bigdata4/172.31.24.4:2181, initiating session
+2015-04-07 14:42:30 o.a.z.ClientCnxn [INFO] Session establishment complete on server bigdata4/172.31.24.4:2181, sessionid = 0x44c555478300003, negotiated timeout = 400000
+2015-04-07 14:42:30 b.s.zookeeper [INFO] Zookeeper state update: :connected:none
+2015-04-07 14:42:30 o.a.z.ZooKeeper [INFO] Session: 0x44c555478300003 closed
+2015-04-07 14:42:30 o.a.z.ClientCnxn [INFO] EventThread shut down
+2015-04-07 14:42:30 c.n.c.f.i.CuratorFrameworkImpl [INFO] Starting
+2015-04-07 14:42:30 o.a.z.ZooKeeper [INFO] Initiating client connection, connectString=bigdata2:2181,bigdata3:2181,bigdata4:2181/storm sessionTimeout=400000 watcher=com.netflix.curator.ConnectionState@493c2797
+2015-04-07 14:42:30 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata2/172.31.24.2:2181
+2015-04-07 14:42:30 o.a.z.ClientCnxn [INFO] Socket connection established to bigdata2/172.31.24.2:2181, initiating session
+2015-04-07 14:42:30 o.a.z.ClientCnxn [INFO] Session establishment complete on server bigdata2/172.31.24.2:2181, sessionid = 0x24c5554916c0001, negotiated timeout = 400000
+2015-04-07 14:42:30 b.s.d.nimbus [INFO] Starting Nimbus server...
+2015-05-14 08:35:04 o.a.z.ClientCnxn [INFO] Unable to read additional data from server sessionid 0x24c5554916c0001, likely server has closed socket, closing socket connection and attempting reconnect
+2015-05-14 08:35:04 c.n.c.f.s.ConnectionStateManager [INFO] State change: SUSPENDED
+2015-05-14 08:35:04 c.n.c.f.s.ConnectionStateManager [WARN] There are no ConnectionStateListeners registered.
+2015-05-14 08:35:04 b.s.cluster [WARN] Received event :disconnected::none: with disconnected Zookeeper.
+2015-05-14 08:35:05 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata3/172.31.24.3:2181
+2015-05-14 08:35:05 o.a.z.ClientCnxn [INFO] Socket connection established to bigdata3/172.31.24.3:2181, initiating session
+2015-05-14 08:35:05 o.a.z.ClientCnxn [INFO] Session establishment complete on server bigdata3/172.31.24.3:2181, sessionid = 0x24c5554916c0001, negotiated timeout = 400000
+2015-05-14 08:35:05 c.n.c.f.s.ConnectionStateManager [INFO] State change: RECONNECTED
+2015-05-14 08:35:05 c.n.c.f.s.ConnectionStateManager [WARN] There are no ConnectionStateListeners registered.
+2015-05-14 08:54:23 o.a.z.ClientCnxn [INFO] Unable to read additional data from server sessionid 0x24c5554916c0001, likely server has closed socket, closing socket connection and attempting reconnect
+2015-05-14 08:54:23 c.n.c.f.s.ConnectionStateManager [INFO] State change: SUSPENDED
+2015-05-14 08:54:23 c.n.c.f.s.ConnectionStateManager [WARN] There are no ConnectionStateListeners registered.
+2015-05-14 08:54:23 b.s.cluster [WARN] Received event :disconnected::none: with disconnected Zookeeper.
+2015-05-14 08:54:23 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata4/172.31.24.4:2181
+2015-05-14 08:54:23 o.a.z.ClientCnxn [INFO] Socket connection established to bigdata4/172.31.24.4:2181, initiating session
+2015-05-14 08:54:23 o.a.z.ClientCnxn [INFO] Unable to read additional data from server sessionid 0x24c5554916c0001, likely server has closed socket, closing socket connection and attempting reconnect
+2015-05-14 08:54:24 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata2/172.31.24.2:2181
+2015-05-14 08:54:24 o.a.z.ClientCnxn [INFO] Socket connection established to bigdata2/172.31.24.2:2181, initiating session
+2015-05-14 08:54:24 o.a.z.ClientCnxn [INFO] Unable to read additional data from server sessionid 0x24c5554916c0001, likely server has closed socket, closing socket connection and attempting reconnect
+2015-05-14 08:54:24 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata3/172.31.24.3:2181
+2015-05-14 08:54:24 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 08:54:25 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata4/172.31.24.4:2181
+2015-05-14 08:54:25 o.a.z.ClientCnxn [INFO] Socket connection established to bigdata4/172.31.24.4:2181, initiating session
+2015-05-14 08:54:25 o.a.z.ClientCnxn [INFO] Unable to read additional data from server sessionid 0x24c5554916c0001, likely server has closed socket, closing socket connection and attempting reconnect
+2015-05-14 08:54:25 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata2/172.31.24.2:2181
+2015-05-14 08:54:25 o.a.z.ClientCnxn [INFO] Socket connection established to bigdata2/172.31.24.2:2181, initiating session
+2015-05-14 08:54:25 o.a.z.ClientCnxn [INFO] Session establishment complete on server bigdata2/172.31.24.2:2181, sessionid = 0x24c5554916c0001, negotiated timeout = 400000
+2015-05-14 08:54:25 c.n.c.f.s.ConnectionStateManager [INFO] State change: RECONNECTED
+2015-05-14 08:54:25 c.n.c.f.s.ConnectionStateManager [WARN] There are no ConnectionStateListeners registered.
+2015-05-14 08:55:26 o.a.z.ClientCnxn [INFO] Unable to read additional data from server sessionid 0x24c5554916c0001, likely server has closed socket, closing socket connection and attempting reconnect
+2015-05-14 08:55:26 c.n.c.f.s.ConnectionStateManager [INFO] State change: SUSPENDED
+2015-05-14 08:55:26 c.n.c.f.s.ConnectionStateManager [WARN] There are no ConnectionStateListeners registered.
+2015-05-14 08:55:26 b.s.cluster [WARN] Received event :disconnected::none: with disconnected Zookeeper.
+2015-05-14 08:55:27 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata3/172.31.24.3:2181
+2015-05-14 08:55:27 o.a.z.ClientCnxn [INFO] Socket connection established to bigdata3/172.31.24.3:2181, initiating session
+2015-05-14 08:55:27 o.a.z.ClientCnxn [INFO] Session establishment complete on server bigdata3/172.31.24.3:2181, sessionid = 0x24c5554916c0001, negotiated timeout = 400000
+2015-05-14 08:55:27 c.n.c.f.s.ConnectionStateManager [INFO] State change: RECONNECTED
+2015-05-14 08:55:27 c.n.c.f.s.ConnectionStateManager [WARN] There are no ConnectionStateListeners registered.
+2015-05-14 08:56:42 o.a.z.ClientCnxn [INFO] Unable to read additional data from server sessionid 0x24c5554916c0001, likely server has closed socket, closing socket connection and attempting reconnect
+2015-05-14 08:56:42 c.n.c.f.s.ConnectionStateManager [INFO] State change: SUSPENDED
+2015-05-14 08:56:42 c.n.c.f.s.ConnectionStateManager [WARN] There are no ConnectionStateListeners registered.
+2015-05-14 08:56:42 b.s.cluster [WARN] Received event :disconnected::none: with disconnected Zookeeper.
+2015-05-14 08:56:43 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata4/172.31.24.4:2181
+2015-05-14 08:56:43 o.a.z.ClientCnxn [INFO] Socket connection established to bigdata4/172.31.24.4:2181, initiating session
+2015-05-14 08:56:43 o.a.z.ClientCnxn [INFO] Session establishment complete on server bigdata4/172.31.24.4:2181, sessionid = 0x24c5554916c0001, negotiated timeout = 400000
+2015-05-14 08:56:43 c.n.c.f.s.ConnectionStateManager [INFO] State change: RECONNECTED
+2015-05-14 08:56:43 c.n.c.f.s.ConnectionStateManager [WARN] There are no ConnectionStateListeners registered.
+2015-05-14 14:32:25 o.a.z.ClientCnxn [INFO] Unable to read additional data from server sessionid 0x24c5554916c0001, likely server has closed socket, closing socket connection and attempting reconnect
+2015-05-14 14:32:25 c.n.c.f.s.ConnectionStateManager [INFO] State change: SUSPENDED
+2015-05-14 14:32:25 c.n.c.f.s.ConnectionStateManager [WARN] There are no ConnectionStateListeners registered.
+2015-05-14 14:32:25 b.s.cluster [WARN] Received event :disconnected::none: with disconnected Zookeeper.
+2015-05-14 14:32:26 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata2/172.31.24.2:2181
+2015-05-14 14:32:26 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:26 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata3/172.31.24.3:2181
+2015-05-14 14:32:26 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:28 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata4/172.31.24.4:2181
+2015-05-14 14:32:28 o.a.z.ClientCnxn [INFO] Socket connection established to bigdata4/172.31.24.4:2181, initiating session
+2015-05-14 14:32:28 o.a.z.ClientCnxn [INFO] Unable to read additional data from server sessionid 0x24c5554916c0001, likely server has closed socket, closing socket connection and attempting reconnect
+2015-05-14 14:32:29 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata2/172.31.24.2:2181
+2015-05-14 14:32:29 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:29 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata3/172.31.24.3:2181
+2015-05-14 14:32:29 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:31 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata4/172.31.24.4:2181
+2015-05-14 14:32:31 o.a.z.ClientCnxn [INFO] Socket connection established to bigdata4/172.31.24.4:2181, initiating session
+2015-05-14 14:32:31 o.a.z.ClientCnxn [INFO] Unable to read additional data from server sessionid 0x24c5554916c0001, likely server has closed socket, closing socket connection and attempting reconnect
+2015-05-14 14:32:31 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata2/172.31.24.2:2181
+2015-05-14 14:32:31 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:32 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata3/172.31.24.3:2181
+2015-05-14 14:32:32 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:34 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata4/172.31.24.4:2181
+2015-05-14 14:32:34 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:34 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata2/172.31.24.2:2181
+2015-05-14 14:32:34 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:35 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata3/172.31.24.3:2181
+2015-05-14 14:32:35 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:37 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata4/172.31.24.4:2181
+2015-05-14 14:32:37 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:37 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata2/172.31.24.2:2181
+2015-05-14 14:32:37 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:38 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata3/172.31.24.3:2181
+2015-05-14 14:32:38 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:40 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata4/172.31.24.4:2181
+2015-05-14 14:32:40 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:40 c.n.c.ConnectionState [ERROR] Connection timed out
+org.apache.zookeeper.KeeperException$ConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at com.netflix.curator.ConnectionState.getZooKeeper(ConnectionState.java:72) ~[curator-client-1.0.1.jar:na]
+	at com.netflix.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:74) [curator-client-1.0.1.jar:na]
+	at com.netflix.curator.framework.imps.CuratorFrameworkImpl.getZooKeeper(CuratorFrameworkImpl.java:353) [curator-framework-1.0.1.jar:na]
+	at com.netflix.curator.framework.imps.BackgroundSyncImpl.performBackgroundOperation(BackgroundSyncImpl.java:39) [curator-framework-1.0.1.jar:na]
+	at com.netflix.curator.framework.imps.OperationAndData.callPerformBackgroundOperation(OperationAndData.java:40) [curator-framework-1.0.1.jar:na]
+	at com.netflix.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:547) [curator-framework-1.0.1.jar:na]
+	at com.netflix.curator.framework.imps.CuratorFrameworkImpl.access$200(CuratorFrameworkImpl.java:50) [curator-framework-1.0.1.jar:na]
+	at com.netflix.curator.framework.imps.CuratorFrameworkImpl$2.call(CuratorFrameworkImpl.java:177) [curator-framework-1.0.1.jar:na]
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303) [na:1.6.0_45]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138) [na:1.6.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895) [na:1.6.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918) [na:1.6.0_45]
+	at java.lang.Thread.run(Thread.java:662) [na:1.6.0_45]
+2015-05-14 14:32:41 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata2/172.31.24.2:2181
+2015-05-14 14:32:41 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:42 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata3/172.31.24.3:2181
+2015-05-14 14:32:42 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:43 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata4/172.31.24.4:2181
+2015-05-14 14:32:43 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:44 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata2/172.31.24.2:2181
+2015-05-14 14:32:44 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:45 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata3/172.31.24.3:2181
+2015-05-14 14:32:45 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:46 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata4/172.31.24.4:2181
+2015-05-14 14:32:46 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:47 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata2/172.31.24.2:2181
+2015-05-14 14:32:47 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:48 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata3/172.31.24.3:2181
+2015-05-14 14:32:48 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:50 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata4/172.31.24.4:2181
+2015-05-14 14:32:50 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:50 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata2/172.31.24.2:2181
+2015-05-14 14:32:50 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:50 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata3/172.31.24.3:2181
+2015-05-14 14:32:50 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:52 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata4/172.31.24.4:2181
+2015-05-14 14:32:52 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:53 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata2/172.31.24.2:2181
+2015-05-14 14:32:53 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:53 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata3/172.31.24.3:2181
+2015-05-14 14:32:53 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:54 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata4/172.31.24.4:2181
+2015-05-14 14:32:54 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:55 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata2/172.31.24.2:2181
+2015-05-14 14:32:55 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:55 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata3/172.31.24.3:2181
+2015-05-14 14:32:55 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:56 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata4/172.31.24.4:2181
+2015-05-14 14:32:56 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:57 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata2/172.31.24.2:2181
+2015-05-14 14:32:57 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:57 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata3/172.31.24.3:2181
+2015-05-14 14:32:57 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:59 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata4/172.31.24.4:2181
+2015-05-14 14:32:59 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:59 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata2/172.31.24.2:2181
+2015-05-14 14:32:59 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:32:59 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata3/172.31.24.3:2181
+2015-05-14 14:32:59 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:33:01 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata4/172.31.24.4:2181
+2015-05-14 14:33:01 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:33:02 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata2/172.31.24.2:2181
+2015-05-14 14:33:02 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:33:02 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata3/172.31.24.3:2181
+2015-05-14 14:33:02 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:33:03 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata4/172.31.24.4:2181
+2015-05-14 14:33:03 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:33:04 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata2/172.31.24.2:2181
+2015-05-14 14:33:04 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:33:05 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata3/172.31.24.3:2181
+2015-05-14 14:33:05 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:33:06 c.n.c.ConnectionState [ERROR] Connection timed out
+org.apache.zookeeper.KeeperException$ConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at com.netflix.curator.ConnectionState.getZooKeeper(ConnectionState.java:72) ~[curator-client-1.0.1.jar:na]
+	at com.netflix.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:74) [curator-client-1.0.1.jar:na]
+	at com.netflix.curator.framework.imps.CuratorFrameworkImpl.getZooKeeper(CuratorFrameworkImpl.java:353) [curator-framework-1.0.1.jar:na]
+	at com.netflix.curator.framework.imps.BackgroundSyncImpl.performBackgroundOperation(BackgroundSyncImpl.java:39) [curator-framework-1.0.1.jar:na]
+	at com.netflix.curator.framework.imps.OperationAndData.callPerformBackgroundOperation(OperationAndData.java:40) [curator-framework-1.0.1.jar:na]
+	at com.netflix.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:547) [curator-framework-1.0.1.jar:na]
+	at com.netflix.curator.framework.imps.CuratorFrameworkImpl.access$200(CuratorFrameworkImpl.java:50) [curator-framework-1.0.1.jar:na]
+	at com.netflix.curator.framework.imps.CuratorFrameworkImpl$2.call(CuratorFrameworkImpl.java:177) [curator-framework-1.0.1.jar:na]
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303) [na:1.6.0_45]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138) [na:1.6.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895) [na:1.6.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918) [na:1.6.0_45]
+	at java.lang.Thread.run(Thread.java:662) [na:1.6.0_45]
+2015-05-14 14:33:06 c.n.c.f.i.CuratorFrameworkImpl [ERROR] Background exception was not retry-able or retry gave up
+org.apache.zookeeper.KeeperException$ConnectionLossException: KeeperErrorCode = ConnectionLoss
+	at com.netflix.curator.ConnectionState.getZooKeeper(ConnectionState.java:72) ~[curator-client-1.0.1.jar:na]
+	at com.netflix.curator.CuratorZookeeperClient.getZooKeeper(CuratorZookeeperClient.java:74) ~[curator-client-1.0.1.jar:na]
+	at com.netflix.curator.framework.imps.CuratorFrameworkImpl.getZooKeeper(CuratorFrameworkImpl.java:353) [curator-framework-1.0.1.jar:na]
+	at com.netflix.curator.framework.imps.BackgroundSyncImpl.performBackgroundOperation(BackgroundSyncImpl.java:39) ~[curator-framework-1.0.1.jar:na]
+	at com.netflix.curator.framework.imps.OperationAndData.callPerformBackgroundOperation(OperationAndData.java:40) ~[curator-framework-1.0.1.jar:na]
+	at com.netflix.curator.framework.imps.CuratorFrameworkImpl.backgroundOperationsLoop(CuratorFrameworkImpl.java:547) [curator-framework-1.0.1.jar:na]
+	at com.netflix.curator.framework.imps.CuratorFrameworkImpl.access$200(CuratorFrameworkImpl.java:50) [curator-framework-1.0.1.jar:na]
+	at com.netflix.curator.framework.imps.CuratorFrameworkImpl$2.call(CuratorFrameworkImpl.java:177) [curator-framework-1.0.1.jar:na]
+	at java.util.concurrent.FutureTask$Sync.innerRun(FutureTask.java:303) [na:1.6.0_45]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:138) [na:1.6.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895) [na:1.6.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918) [na:1.6.0_45]
+	at java.lang.Thread.run(Thread.java:662) [na:1.6.0_45]
+2015-05-14 14:33:06 c.n.c.f.s.ConnectionStateManager [INFO] State change: LOST
+2015-05-14 14:33:06 c.n.c.f.s.ConnectionStateManager [WARN] There are no ConnectionStateListeners registered.
+2015-05-14 14:33:07 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata4/172.31.24.4:2181
+2015-05-14 14:33:07 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:33:08 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata2/172.31.24.2:2181
+2015-05-14 14:33:08 o.a.z.ClientCnxn [INFO] Socket connection established to bigdata2/172.31.24.2:2181, initiating session
+2015-05-14 14:33:08 o.a.z.ClientCnxn [INFO] Unable to read additional data from server sessionid 0x24c5554916c0001, likely server has closed socket, closing socket connection and attempting reconnect
+2015-05-14 14:33:08 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata3/172.31.24.3:2181
+2015-05-14 14:33:08 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:33:09 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata4/172.31.24.4:2181
+2015-05-14 14:33:09 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:33:11 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata2/172.31.24.2:2181
+2015-05-14 14:33:11 o.a.z.ClientCnxn [INFO] Socket connection established to bigdata2/172.31.24.2:2181, initiating session
+2015-05-14 14:33:11 o.a.z.ClientCnxn [INFO] Unable to read additional data from server sessionid 0x24c5554916c0001, likely server has closed socket, closing socket connection and attempting reconnect
+2015-05-14 14:33:12 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata3/172.31.24.3:2181
+2015-05-14 14:33:12 o.a.z.ClientCnxn [INFO] Socket connection established to bigdata3/172.31.24.3:2181, initiating session
+2015-05-14 14:33:12 o.a.z.ClientCnxn [INFO] Unable to read additional data from server sessionid 0x24c5554916c0001, likely server has closed socket, closing socket connection and attempting reconnect
+2015-05-14 14:33:13 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata4/172.31.24.4:2181
+2015-05-14 14:33:13 o.a.z.ClientCnxn [WARN] Session 0x24c5554916c0001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method) ~[na:1.6.0_45]
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:599) ~[na:1.6.0_45]
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1119) ~[zookeeper-3.3.3.jar:3.3.3-1073969]
+2015-05-14 14:33:13 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata2/172.31.24.2:2181
+2015-05-14 14:33:13 o.a.z.ClientCnxn [INFO] Socket connection established to bigdata2/172.31.24.2:2181, initiating session
+2015-05-14 14:33:13 o.a.z.ClientCnxn [INFO] Unable to read additional data from server sessionid 0x24c5554916c0001, likely server has closed socket, closing socket connection and attempting reconnect
+2015-05-14 14:33:14 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata3/172.31.24.3:2181
+2015-05-14 14:33:14 o.a.z.ClientCnxn [INFO] Socket connection established to bigdata3/172.31.24.3:2181, initiating session
+2015-05-14 14:33:14 o.a.z.ClientCnxn [INFO] Session establishment complete on server bigdata3/172.31.24.3:2181, sessionid = 0x24c5554916c0001, negotiated timeout = 400000
+2015-05-14 14:33:14 c.n.c.f.s.ConnectionStateManager [INFO] State change: RECONNECTED
+2015-05-14 14:33:14 c.n.c.f.s.ConnectionStateManager [WARN] There are no ConnectionStateListeners registered.
+2015-05-15 13:40:37 o.a.z.ClientCnxn [INFO] Unable to read additional data from server sessionid 0x24c5554916c0001, likely server has closed socket, closing socket connection and attempting reconnect
+2015-05-15 13:40:37 c.n.c.f.s.ConnectionStateManager [INFO] State change: SUSPENDED
+2015-05-15 13:40:37 c.n.c.f.s.ConnectionStateManager [WARN] There are no ConnectionStateListeners registered.
+2015-05-15 13:40:37 b.s.cluster [WARN] Received event :disconnected::none: with disconnected Zookeeper.
+2015-05-15 13:40:37 o.a.z.ClientCnxn [INFO] Opening socket connection to server bigdata4/172.31.24.4:2181
+2015-05-15 13:40:37 o.a.z.ClientCnxn [INFO] Socket connection established to bigdata4/172.31.24.4:2181, initiating session
+2015-05-15 13:40:37 o.a.z.ClientCnxn [INFO] Session establishment complete on server bigdata4/172.31.24.4:2181, sessionid = 0x24c5554916c0001, negotiated timeout = 400000
+2015-05-15 13:40:37 c.n.c.f.s.ConnectionStateManager [INFO] State change: RECONNECTED
+2015-05-15 13:40:37 c.n.c.f.s.ConnectionStateManager [WARN] There are no ConnectionStateListeners registered.
+2015-05-15 15:10:09 b.s.d.nimbus [INFO] Uploading file from client to /tmp/storm/nimbus/inbox/stormjar-d7225784-95fd-4c9b-b665-4118806289c8.jar
+2015-05-15 15:10:10 b.s.d.nimbus [INFO] Finished uploading file from client: /tmp/storm/nimbus/inbox/stormjar-d7225784-95fd-4c9b-b665-4118806289c8.jar
+2015-05-15 15:10:10 b.s.d.nimbus [INFO] Received topology submission for RTM-TEST with conf {"topology.max.task.parallelism" nil, "topology.acker.executors" nil, "topology.kryo.register" nil, "topology.kryo.decorators" (), "topology.name" "RTM-TEST", "storm.id" "RTM-TEST-1-1431673810", "topology.workers" 3, "topology.message.timeout.secs" 60}
+2015-05-15 15:10:10 b.s.d.nimbus [INFO] Activating RTM-TEST: RTM-TEST-1-1431673810
+2015-05-15 15:10:11 b.s.s.EvenScheduler [INFO] Available slots: (["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8702] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8700] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8701] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8702] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8700] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8701])
+2015-05-15 15:10:11 b.s.d.nimbus [INFO] Setting new assignment for topology id RTM-TEST-1-1431673810: #backtype.storm.daemon.common.Assignment{:master-code-dir "/tmp/storm/nimbus/stormdist/RTM-TEST-1-1431673810", :node->host {"eee29a23-f43e-42e8-98b0-928d8ddb57b2" "bigdata3", "4e780c8b-59c5-46b2-bc25-77a65d4778c7" "bigdata2"}, :executor->node+port {[3 3] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8700], [5 5] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8702], [4 4] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8702], [2 2] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8702], [1 1] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8702]}, :executor->start-time-secs {[3 3] 1431673811, [2 2] 1431673811, [5 5] 1431673811, [1 1] 1431673811, [4 4] 1431673811}}
+2015-05-15 15:12:50 b.s.d.nimbus [INFO] Delaying event :remove for 0 secs for RTM-TEST-1-1431673810
+2015-05-15 15:12:50 b.s.d.nimbus [INFO] Updated RTM-TEST-1-1431673810 with status {:type :killed, :kill-time-secs 0}
+2015-05-15 15:13:48 b.s.d.nimbus [INFO] Killing topology: RTM-TEST-1-1431673810
+2015-05-15 15:13:48 b.s.d.nimbus [INFO] Cleaning up RTM-TEST-1-1431673810
+2015-05-15 15:20:33 b.s.d.nimbus [INFO] Uploading file from client to /tmp/storm/nimbus/inbox/stormjar-3f815cbb-86e1-4b50-b76b-8025d847882a.jar
+2015-05-15 15:20:34 b.s.d.nimbus [INFO] Finished uploading file from client: /tmp/storm/nimbus/inbox/stormjar-3f815cbb-86e1-4b50-b76b-8025d847882a.jar
+2015-05-15 15:20:34 b.s.d.nimbus [INFO] Received topology submission for RTM-TEST with conf {"topology.max.task.parallelism" nil, "topology.acker.executors" nil, "topology.kryo.register" nil, "topology.kryo.decorators" (), "topology.name" "RTM-TEST", "storm.id" "RTM-TEST-2-1431674434", "topology.workers" 3, "topology.message.timeout.secs" 60}
+2015-05-15 15:20:34 b.s.d.nimbus [INFO] Activating RTM-TEST: RTM-TEST-2-1431674434
+2015-05-15 15:20:34 b.s.s.EvenScheduler [INFO] Available slots: (["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8702] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8700] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8701] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8702] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8700] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8701])
+2015-05-15 15:20:34 b.s.d.nimbus [INFO] Setting new assignment for topology id RTM-TEST-2-1431674434: #backtype.storm.daemon.common.Assignment{:master-code-dir "/tmp/storm/nimbus/stormdist/RTM-TEST-2-1431674434", :node->host {"eee29a23-f43e-42e8-98b0-928d8ddb57b2" "bigdata3", "4e780c8b-59c5-46b2-bc25-77a65d4778c7" "bigdata2"}, :executor->node+port {[3 3] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8700], [5 5] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8702], [4 4] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8702], [2 2] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8702], [1 1] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8702]}, :executor->start-time-secs {[3 3] 1431674434, [2 2] 1431674434, [5 5] 1431674434, [1 1] 1431674434, [4 4] 1431674434}}
+2015-05-15 15:22:12 b.s.d.nimbus [INFO] Delaying event :remove for 0 secs for RTM-TEST-2-1431674434
+2015-05-15 15:22:12 b.s.d.nimbus [INFO] Updated RTM-TEST-2-1431674434 with status {:type :killed, :kill-time-secs 0}
+2015-05-15 15:22:35 b.s.d.nimbus [INFO] Killing topology: RTM-TEST-2-1431674434
+2015-05-15 15:23:48 b.s.d.nimbus [INFO] Cleaning up RTM-TEST-2-1431674434
+2015-05-15 15:27:11 b.s.d.nimbus [INFO] Uploading file from client to /tmp/storm/nimbus/inbox/stormjar-d096ef11-d1f1-400c-93eb-0a9a97a01343.jar
+2015-05-15 15:27:11 b.s.d.nimbus [INFO] Finished uploading file from client: /tmp/storm/nimbus/inbox/stormjar-d096ef11-d1f1-400c-93eb-0a9a97a01343.jar
+2015-05-15 15:27:11 b.s.d.nimbus [INFO] Received topology submission for RTM-TEST with conf {"topology.max.task.parallelism" nil, "topology.acker.executors" nil, "topology.kryo.register" nil, "topology.kryo.decorators" (), "topology.name" "RTM-TEST", "storm.id" "RTM-TEST-3-1431674831", "topology.workers" 3, "topology.message.timeout.secs" 60}
+2015-05-15 15:27:12 b.s.d.nimbus [INFO] Activating RTM-TEST: RTM-TEST-3-1431674831
+2015-05-15 15:27:12 b.s.s.EvenScheduler [INFO] Available slots: (["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8702] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8700] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8701] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8702] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8700] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8701])
+2015-05-15 15:27:12 b.s.d.nimbus [INFO] Setting new assignment for topology id RTM-TEST-3-1431674831: #backtype.storm.daemon.common.Assignment{:master-code-dir "/tmp/storm/nimbus/stormdist/RTM-TEST-3-1431674831", :node->host {"eee29a23-f43e-42e8-98b0-928d8ddb57b2" "bigdata3", "4e780c8b-59c5-46b2-bc25-77a65d4778c7" "bigdata2"}, :executor->node+port {[3 3] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8700], [5 5] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8702], [4 4] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8702], [2 2] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8702], [1 1] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8702]}, :executor->start-time-secs {[3 3] 1431674832, [2 2] 1431674832, [5 5] 1431674832, [1 1] 1431674832, [4 4] 1431674832}}
+2015-05-15 15:28:23 b.s.d.nimbus [INFO] Delaying event :remove for 0 secs for RTM-TEST-3-1431674831
+2015-05-15 15:28:23 b.s.d.nimbus [INFO] Updated RTM-TEST-3-1431674831 with status {:type :killed, :kill-time-secs 0}
+2015-05-15 15:28:48 b.s.d.nimbus [INFO] Killing topology: RTM-TEST-3-1431674831
+2015-05-15 15:28:48 b.s.d.nimbus [INFO] Cleaning up RTM-TEST-3-1431674831
+2015-05-15 15:41:57 b.s.d.nimbus [INFO] Uploading file from client to /tmp/storm/nimbus/inbox/stormjar-0eba05fc-8d3c-4821-a167-66efd990e4ce.jar
+2015-05-15 15:41:57 b.s.d.nimbus [INFO] Finished uploading file from client: /tmp/storm/nimbus/inbox/stormjar-0eba05fc-8d3c-4821-a167-66efd990e4ce.jar
+2015-05-15 15:41:57 b.s.d.nimbus [INFO] Received topology submission for RTM-TEST with conf {"topology.max.task.parallelism" nil, "topology.acker.executors" nil, "topology.kryo.register" nil, "topology.kryo.decorators" (), "topology.name" "RTM-TEST", "storm.id" "RTM-TEST-4-1431675717", "topology.workers" 3, "topology.message.timeout.secs" 60}
+2015-05-15 15:41:57 b.s.d.nimbus [INFO] Activating RTM-TEST: RTM-TEST-4-1431675717
+2015-05-15 15:41:57 b.s.s.EvenScheduler [INFO] Available slots: (["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8702] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8700] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8701] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8702] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8700] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8701])
+2015-05-15 15:41:58 b.s.d.nimbus [INFO] Setting new assignment for topology id RTM-TEST-4-1431675717: #backtype.storm.daemon.common.Assignment{:master-code-dir "/tmp/storm/nimbus/stormdist/RTM-TEST-4-1431675717", :node->host {"eee29a23-f43e-42e8-98b0-928d8ddb57b2" "bigdata3", "4e780c8b-59c5-46b2-bc25-77a65d4778c7" "bigdata2"}, :executor->node+port {[3 3] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8700], [5 5] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8702], [4 4] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8702], [2 2] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8702], [1 1] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8702]}, :executor->start-time-secs {[3 3] 1431675718, [2 2] 1431675718, [5 5] 1431675718, [1 1] 1431675718, [4 4] 1431675718}}
+2015-05-15 15:45:41 b.s.d.nimbus [INFO] Delaying event :remove for 0 secs for RTM-TEST-4-1431675717
+2015-05-15 15:45:41 b.s.d.nimbus [INFO] Updated RTM-TEST-4-1431675717 with status {:type :killed, :kill-time-secs 0}
+2015-05-15 15:47:09 b.s.d.nimbus [INFO] Killing topology: RTM-TEST-4-1431675717
+2015-05-15 15:47:09 b.s.d.nimbus [INFO] Cleaning up RTM-TEST-4-1431675717
+2015-05-15 15:52:21 b.s.d.nimbus [INFO] Uploading file from client to /tmp/storm/nimbus/inbox/stormjar-308dfb74-1e4b-4f92-a04f-3f7337286a41.jar
+2015-05-15 15:52:22 b.s.d.nimbus [INFO] Finished uploading file from client: /tmp/storm/nimbus/inbox/stormjar-308dfb74-1e4b-4f92-a04f-3f7337286a41.jar
+2015-05-15 15:52:22 b.s.d.nimbus [INFO] Received topology submission for RTM-TEST with conf {"topology.max.task.parallelism" nil, "topology.acker.executors" nil, "topology.kryo.register" nil, "topology.kryo.decorators" (), "topology.name" "RTM-TEST", "storm.id" "RTM-TEST-5-1431676342", "topology.workers" 3, "topology.message.timeout.secs" 60}
+2015-05-15 15:52:22 b.s.d.nimbus [INFO] Activating RTM-TEST: RTM-TEST-5-1431676342
+2015-05-15 15:52:22 b.s.s.EvenScheduler [INFO] Available slots: (["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8702] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8700] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8701] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8702] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8700] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8701])
+2015-05-15 15:52:22 b.s.d.nimbus [INFO] Setting new assignment for topology id RTM-TEST-5-1431676342: #backtype.storm.daemon.common.Assignment{:master-code-dir "/tmp/storm/nimbus/stormdist/RTM-TEST-5-1431676342", :node->host {"eee29a23-f43e-42e8-98b0-928d8ddb57b2" "bigdata3", "4e780c8b-59c5-46b2-bc25-77a65d4778c7" "bigdata2"}, :executor->node+port {[3 3] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8700], [5 5] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8702], [4 4] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8702], [2 2] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8702], [1 1] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8702]}, :executor->start-time-secs {[3 3] 1431676342, [2 2] 1431676342, [5 5] 1431676342, [1 1] 1431676342, [4 4] 1431676342}}
+2015-05-15 15:53:27 b.s.d.nimbus [INFO] Delaying event :remove for 0 secs for RTM-TEST-5-1431676342
+2015-05-15 15:53:27 b.s.d.nimbus [INFO] Updated RTM-TEST-5-1431676342 with status {:type :killed, :kill-time-secs 0}
+2015-05-15 15:53:49 b.s.d.nimbus [INFO] Killing topology: RTM-TEST-5-1431676342
+2015-05-15 15:53:49 b.s.d.nimbus [INFO] Cleaning up RTM-TEST-5-1431676342
+2015-05-15 16:12:35 b.s.d.nimbus [INFO] Cleaning inbox ... deleted: stormjar-d7225784-95fd-4c9b-b665-4118806289c8.jar
+2015-05-15 16:22:35 b.s.d.nimbus [INFO] Cleaning inbox ... deleted: stormjar-3f815cbb-86e1-4b50-b76b-8025d847882a.jar
+2015-05-15 16:32:35 b.s.d.nimbus [INFO] Cleaning inbox ... deleted: stormjar-d096ef11-d1f1-400c-93eb-0a9a97a01343.jar
+2015-05-15 16:42:35 b.s.d.nimbus [INFO] Cleaning inbox ... deleted: stormjar-0eba05fc-8d3c-4821-a167-66efd990e4ce.jar
+2015-05-15 16:52:35 b.s.d.nimbus [INFO] Cleaning inbox ... deleted: stormjar-308dfb74-1e4b-4f92-a04f-3f7337286a41.jar
+2015-05-26 14:54:22 b.s.d.nimbus [INFO] Uploading file from client to /tmp/storm/nimbus/inbox/stormjar-3c04d45d-ec80-4922-80c6-c81b4ba8ef9d.jar
+2015-05-26 14:54:22 b.s.d.nimbus [INFO] Finished uploading file from client: /tmp/storm/nimbus/inbox/stormjar-3c04d45d-ec80-4922-80c6-c81b4ba8ef9d.jar
+2015-05-26 14:54:22 b.s.d.nimbus [INFO] Received topology submission for RTM with conf {"topology.max.task.parallelism" nil, "topology.acker.executors" nil, "topology.kryo.register" nil, "topology.kryo.decorators" (), "topology.name" "RTM", "storm.id" "RTM-6-1432623262", "topology.workers" 3, "topology.message.timeout.secs" 60}
+2015-05-26 14:54:22 b.s.d.nimbus [INFO] Activating RTM: RTM-6-1432623262
+2015-05-26 14:54:22 b.s.s.EvenScheduler [INFO] Available slots: (["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8702] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8700] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8701] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8702] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8700] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8701])
+2015-05-26 14:54:22 b.s.d.nimbus [INFO] Setting new assignment for topology id RTM-6-1432623262: #backtype.storm.daemon.common.Assignment{:master-code-dir "/tmp/storm/nimbus/stormdist/RTM-6-1432623262", :node->host {"eee29a23-f43e-42e8-98b0-928d8ddb57b2" "bigdata3", "4e780c8b-59c5-46b2-bc25-77a65d4778c7" "bigdata2"}, :executor->node+port {[3 3] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8700], [5 5] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8702], [4 4] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8702], [2 2] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8702], [1 1] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8702]}, :executor->start-time-secs {[3 3] 1432623262, [2 2] 1432623262, [5 5] 1432623262, [1 1] 1432623262, [4 4] 1432623262}}
+2015-05-26 15:42:22 b.s.d.nimbus [INFO] Uploading file from client to /tmp/storm/nimbus/inbox/stormjar-6f4fe788-a417-475e-adad-b6c35ec9d204.jar
+2015-05-26 15:42:22 b.s.d.nimbus [INFO] Finished uploading file from client: /tmp/storm/nimbus/inbox/stormjar-6f4fe788-a417-475e-adad-b6c35ec9d204.jar
+2015-05-26 15:42:22 b.s.d.nimbus [INFO] Received topology submission for RTM222 with conf {"topology.max.task.parallelism" nil, "topology.acker.executors" nil, "topology.kryo.register" nil, "topology.kryo.decorators" (), "topology.name" "RTM222", "storm.id" "RTM222-7-1432626142", "topology.workers" 3, "topology.message.timeout.secs" 60}
+2015-05-26 15:42:23 b.s.d.nimbus [INFO] Activating RTM222: RTM222-7-1432626142
+2015-05-26 15:42:23 b.s.s.EvenScheduler [INFO] Available slots: (["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8701] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8700] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8701])
+2015-05-26 15:42:23 b.s.d.nimbus [INFO] Setting new assignment for topology id RTM222-7-1432626142: #backtype.storm.daemon.common.Assignment{:master-code-dir "/tmp/storm/nimbus/stormdist/RTM222-7-1432626142", :node->host {"eee29a23-f43e-42e8-98b0-928d8ddb57b2" "bigdata3", "4e780c8b-59c5-46b2-bc25-77a65d4778c7" "bigdata2"}, :executor->node+port {[3 3] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8701], [5 5] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8700], [4 4] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8701], [2 2] ["eee29a23-f43e-42e8-98b0-928d8ddb57b2" 8700], [1 1] ["4e780c8b-59c5-46b2-bc25-77a65d4778c7" 8701]}, :executor->start-time-secs {[3 3] 1432626143, [2 2] 1432626143, [5 5] 1432626143, [1 1] 1432626143, [4 4] 1432626143}}
+2015-05-26 16:02:36 b.s.d.nimbus [INFO] Cleaning inbox ... deleted: stormjar-3c04d45d-ec80-4922-80c6-c81b4ba8ef9d.jar
+2015-05-26 16:42:36 b.s.d.nimbus [INFO] Cleaning inbox ... deleted: stormjar-6f4fe788-a417-475e-adad-b6c35ec9d204.jar
+2015-05-27 10:58:33 b.s.d.nimbus [INFO] Uploading file from client to /tmp/storm/nimbus/inbox/stormjar-8fa57f70-785c-441a-847e-2190ff7b766a.jar
+2015-05-27 10:58:34 b.s.d.nimbus [INFO] Finished uploading file from client: /tmp/storm/nimbus/inbox/stormjar-8fa57f70-785c-441a-847e-2190ff7b766a.jar
+2015-05-27 10:58:34 b.s.d.nimbus [INFO] Received topology submission for TEST with conf {"topology.max.task.parallelism" nil, "topology.acker.executors" nil, "topology.kryo.register" nil, "topology.kryo.decorators" (), "topology.name" "TEST", "storm.id" "TEST-8-1432695514", "topology.workers" 3, "topology.message.timeout.secs" 60}
+2015-05-27 10:58:34 b.s.d.nimbus [INFO] Activating TEST: TEST-8-1432695514
+2015-05-27 12:02:36 b.s.d.nimbus [INFO] Cleaning inbox ... deleted: stormjar-8fa57f70-785c-441a-847e-2190ff7b766a.jar

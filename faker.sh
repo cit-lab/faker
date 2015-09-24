@@ -1,12 +1,13 @@
 #!/usr/bin/env bash
 cwd=$(pwd)
 now=$(date +"%Y_%m_%d")
-SERVICE_NAME=faker
+SERVICE_NAME=faker-$(echo $2-$3 | md5)
 PID_PATH_NAME=${cwd}/etc/${SERVICE_NAME}.pid
 ERROR_LOG=log/${SERVICE_NAME}-${now}.err.log
 OUT_LOG=log/${SERVICE_NAME}-${now}.out.log
 
 run() {
+    echo "Running ${SERVICE_NAME}"
     mvn package
     java -jar -Dlogback.configurationFile=$1 target/faker-0.1.jar $2
 }

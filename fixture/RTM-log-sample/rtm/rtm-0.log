@@ -1,0 +1,561 @@
+[2015-05-27 10:46:51,826][SpringOsgiExtenderThread-21][sgiExtenderThread-21][INFO ][.rtm.sale.SendEmailServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                         SendEmailService is starting                         +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:51,838][SpringOsgiExtenderThread-21][sgiExtenderThread-21][INFO ][.rtm.sale.SendEmailServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                         SendEmailService is started                          +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:51,899][SpringOsgiExtenderThread-24][sgiExtenderThread-24][INFO ][ata.rtm.cache.CacheServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                           CacheService is starting                           +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:51,899][SpringOsgiExtenderThread-24][sgiExtenderThread-24][INFO ][ata.rtm.cache.CacheServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                           CacheService is started                            +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:51,941][SpringOsgiExtenderThread-25][sgiExtenderThread-25][INFO ][l.bigdata.rtm.id.IDServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                            IDService is starting                             +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:51,942][SpringOsgiExtenderThread-25][sgiExtenderThread-25][INFO ][l.bigdata.rtm.id.IDServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                             IDService is started                             +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:51,974][SpringOsgiExtenderThread-26][sgiExtenderThread-26][INFO ][.rtm.rule.WhiteListServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                         WhiteListService is starting                         +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:52,309][SpringOsgiExtenderThread-26][sgiExtenderThread-26][INFO ][.rtm.rule.WhiteListServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                         WhiteListService is started                          +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:52,319][SpringOsgiExtenderThread-26][sgiExtenderThread-26][INFO ][tm.rule.SendingRuleServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                        SendingRuleService is starting                        +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:52,320][SpringOsgiExtenderThread-26][sgiExtenderThread-26][INFO ][tm.rule.SendingRuleServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                        SendingRuleService is started                         +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:52,330][SpringOsgiExtenderThread-26][sgiExtenderThread-26][INFO ][.rule.MarketingRuleServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                       MarketingRuleService is starting                       +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:52,331][SpringOsgiExtenderThread-26][sgiExtenderThread-26][INFO ][.rule.MarketingRuleServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                       MarketingRuleService is started                        +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:52,342][SpringOsgiExtenderThread-26][sgiExtenderThread-26][INFO ][.TaskMessageContentServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                    TaskMessageContentService is starting                     +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:52,343][SpringOsgiExtenderThread-26][sgiExtenderThread-26][INFO ][.TaskMessageContentServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                     TaskMessageContentService is started                     +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:52,400][SpringOsgiExtenderThread-27][sgiExtenderThread-27][INFO ][data.rtm.lib.AppLibServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                          AppLibService is starting                           +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:52,401][SpringOsgiExtenderThread-28][sgiExtenderThread-28][INFO ][n.SendingRuleResultServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                     SendingRuleResultService is starting                     +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:52,401][SpringOsgiExtenderThread-27][sgiExtenderThread-27][INFO ][data.rtm.lib.AppLibServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                           AppLibService is started                           +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:52,403][SpringOsgiExtenderThread-28][sgiExtenderThread-28][INFO ][n.SendingRuleResultServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                     SendingRuleResultService is started                      +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:52,412][SpringOsgiExtenderThread-28][sgiExtenderThread-28][INFO ][a.rtm.plugin.PluginServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                          PluginService is starting                           +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:52,416][SpringOsgiExtenderThread-28][sgiExtenderThread-28][INFO ][a.rtm.plugin.PluginServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                           PluginService is started                           +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:52,418][SpringOsgiExtenderThread-27][sgiExtenderThread-27][INFO ][.rtm.lib.KeywordLibServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                        KeywordLibService is starting                         +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:52,419][SpringOsgiExtenderThread-27][sgiExtenderThread-27][INFO ][.rtm.lib.KeywordLibServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                         KeywordLibService is started                         +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:52,438][SpringOsgiExtenderThread-27][sgiExtenderThread-27][INFO ][data.rtm.lib.URLLibServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                          URLLibService is starting                           +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:52,439][SpringOsgiExtenderThread-27][sgiExtenderThread-27][INFO ][data.rtm.lib.URLLibServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                           URLLibService is started                           +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:52,469][SpringOsgiExtenderThread-27][sgiExtenderThread-27][INFO ][ta.rtm.lib.HobbyLibServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                         HobbyLibService is starting                          +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:52,470][SpringOsgiExtenderThread-27][sgiExtenderThread-27][INFO ][ta.rtm.lib.HobbyLibServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                          HobbyLibService is started                          +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:52,482][SpringOsgiExtenderThread-27][sgiExtenderThread-27][INFO ][b.MarketingFeedbackServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                     MarketingFeedbackService is starting                     +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:52,485][SpringOsgiExtenderThread-27][sgiExtenderThread-27][INFO ][b.MarketingFeedbackServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                     MarketingFeedbackService is started                      +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:52,512][SpringOsgiExtenderThread-29][sgiExtenderThread-29][INFO ][MarketingTaskStatusServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                    MarketingTaskStatusService is starting                    +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:52,514][SpringOsgiExtenderThread-29][sgiExtenderThread-29][INFO ][MarketingTaskStatusServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                    MarketingTaskStatusService is started                     +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:52,523][SpringOsgiExtenderThread-29][sgiExtenderThread-29][INFO ][.task.MarketingTaskServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                       MarketingTaskService is starting                       +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:56,607][SpringOsgiExtenderThread-29][sgiExtenderThread-29][INFO ][.task.MarketingTaskServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                       MarketingTaskService is started                        +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:56,655][SpringOsgiExtenderThread-30][sgiExtenderThread-30][INFO ][MarketingRuleResultServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                    MarketingRuleResultService is starting                    +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:56,657][SpringOsgiExtenderThread-30][sgiExtenderThread-30][INFO ][MarketingRuleResultServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                    MarketingRuleResultService is started                     +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:56,704][SpringOsgiExtenderThread-31][sgiExtenderThread-31][INFO ][core.RealtimeResultServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                      RealtimeResultService is starting                       +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:56,707][SpringOsgiExtenderThread-31][sgiExtenderThread-31][INFO ][core.RealtimeResultServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                       RealtimeResultService is started                       +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:56,775][SpringOsgiExtenderThread-32][sgiExtenderThread-32][INFO ][data.rtm.api.RTMRMIServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                           RTMRMIServer is starting                           +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 10:46:56,941][SpringOsgiExtenderThread-32][sgiExtenderThread-32][INFO ][data.rtm.api.RTMRMIServiceBean]-+Service:    MarketingRuleApiService     +
+[2015-05-27 10:46:56,941][SpringOsgiExtenderThread-32][sgiExtenderThread-32][INFO ][data.rtm.api.RTMRMIServiceBean]-+Service:    WhiteListApiService     +
+[2015-05-27 10:46:56,942][SpringOsgiExtenderThread-32][sgiExtenderThread-32][INFO ][data.rtm.api.RTMRMIServiceBean]-+Service:    RealtimeResultApiService     +
+[2015-05-27 10:46:56,942][SpringOsgiExtenderThread-32][sgiExtenderThread-32][INFO ][data.rtm.api.RTMRMIServiceBean]-+Service:    URLLibApiService     +
+[2015-05-27 10:46:56,942][SpringOsgiExtenderThread-32][sgiExtenderThread-32][INFO ][data.rtm.api.RTMRMIServiceBean]-+Service:    MarketingTaskApiService     +
+[2015-05-27 10:46:56,942][SpringOsgiExtenderThread-32][sgiExtenderThread-32][INFO ][data.rtm.api.RTMRMIServiceBean]-+Service:    AppLibApiService     +
+[2015-05-27 10:46:56,942][SpringOsgiExtenderThread-32][sgiExtenderThread-32][INFO ][data.rtm.api.RTMRMIServiceBean]-+Service:    TaskMessageContentApiService     +
+[2015-05-27 10:46:56,942][SpringOsgiExtenderThread-32][sgiExtenderThread-32][INFO ][data.rtm.api.RTMRMIServiceBean]-+Service:    PluginApiService     +
+[2015-05-27 10:46:56,943][SpringOsgiExtenderThread-32][sgiExtenderThread-32][INFO ][data.rtm.api.RTMRMIServiceBean]-+Service:    SendingRuleApiService     +
+[2015-05-27 10:46:56,943][SpringOsgiExtenderThread-32][sgiExtenderThread-32][INFO ][data.rtm.api.RTMRMIServiceBean]-+Service:    HobbyLibApiService     +
+[2015-05-27 10:46:56,943][SpringOsgiExtenderThread-32][sgiExtenderThread-32][INFO ][data.rtm.api.RTMRMIServiceBean]-+Service:    KeywordLibApiService     +
+[2015-05-27 10:46:56,943][SpringOsgiExtenderThread-32][sgiExtenderThread-32][INFO ][data.rtm.api.RTMRMIServiceBean]-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++                           RTMRMIServer is started                            +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+[2015-05-27 11:07:24,410][SendEmailService.Worker][dEmailService.Worker][ERROR][.rtm.sale.SendEmailServiceBean]-send mail error
+com.sun.mail.smtp.SMTPSendFailedException: 554 MI:SPB UserReject 0,smtp8,DMCowEDJvmFFNmVVDoHDAw--.849S2 1432696392 please feedback at http://feedback.mail.126.com/antispam/complain.php?user=rtm_ideal@163.com
+
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:2108) ~[mail-1.4.7.jar:1.4.7]
+	at com.sun.mail.smtp.SMTPTransport.mailFrom(SMTPTransport.java:1609) ~[mail-1.4.7.jar:1.4.7]
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1117) ~[mail-1.4.7.jar:1.4.7]
+	at javax.mail.Transport.send0(Transport.java:195) ~[mail-1.4.7.jar:1.4.7]
+	at javax.mail.Transport.send(Transport.java:124) ~[mail-1.4.7.jar:1.4.7]
+	at com.ideal.bigdata.rtm.sale.internal.mail.EmailServer.smtp(EmailServer.java:95) ~[rtm-sale-1.0.0.jar:na]
+	at com.ideal.bigdata.rtm.sale.SendEmailServiceBean$Worker.run(SendEmailServiceBean.java:118) ~[rtm-sale-1.0.0.jar:na]
+[2015-05-27 11:07:24,921][SendEmailService.Worker][dEmailService.Worker][ERROR][.rtm.sale.SendEmailServiceBean]-send mail error
+com.sun.mail.smtp.SMTPSendFailedException: 554 MI:SPB UserReject 0,smtp8,DMCowEBZyE9INmVVJYLDAw--.1128S2 1432696393 please feedback at http://feedback.mail.126.com/antispam/complain.php?user=rtm_ideal@163.com
+
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:2108) ~[mail-1.4.7.jar:1.4.7]
+	at com.sun.mail.smtp.SMTPTransport.mailFrom(SMTPTransport.java:1609) ~[mail-1.4.7.jar:1.4.7]
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1117) ~[mail-1.4.7.jar:1.4.7]
+	at javax.mail.Transport.send0(Transport.java:195) ~[mail-1.4.7.jar:1.4.7]
+	at javax.mail.Transport.send(Transport.java:124) ~[mail-1.4.7.jar:1.4.7]
+	at com.ideal.bigdata.rtm.sale.internal.mail.EmailServer.smtp(EmailServer.java:95) ~[rtm-sale-1.0.0.jar:na]
+	at com.ideal.bigdata.rtm.sale.SendEmailServiceBean$Worker.run(SendEmailServiceBean.java:118) ~[rtm-sale-1.0.0.jar:na]
+[2015-05-27 11:07:25,557][SendEmailService.Worker][dEmailService.Worker][ERROR][.rtm.sale.SendEmailServiceBean]-send mail error
+com.sun.mail.smtp.SMTPSendFailedException: 554 MI:SPB UserReject 0,smtp8,DMCowECJs1VJNmVVXoLDAw--.841S2 1432696393 please feedback at http://feedback.mail.126.com/antispam/complain.php?user=rtm_ideal@163.com
+
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:2108) ~[mail-1.4.7.jar:1.4.7]
+	at com.sun.mail.smtp.SMTPTransport.mailFrom(SMTPTransport.java:1609) ~[mail-1.4.7.jar:1.4.7]
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1117) ~[mail-1.4.7.jar:1.4.7]
+	at javax.mail.Transport.send0(Transport.java:195) ~[mail-1.4.7.jar:1.4.7]
+	at javax.mail.Transport.send(Transport.java:124) ~[mail-1.4.7.jar:1.4.7]
+	at com.ideal.bigdata.rtm.sale.internal.mail.EmailServer.smtp(EmailServer.java:95) ~[rtm-sale-1.0.0.jar:na]
+	at com.ideal.bigdata.rtm.sale.SendEmailServiceBean$Worker.run(SendEmailServiceBean.java:118) ~[rtm-sale-1.0.0.jar:na]
+[2015-05-27 11:07:26,452][SendEmailService.Worker][dEmailService.Worker][ERROR][.rtm.sale.SendEmailServiceBean]-send mail error
+com.sun.mail.smtp.SMTPSendFailedException: 554 MI:SPB UserReject 0,smtp8,DMCowEDJvmFJNmVVnYLDAw--.851S2 1432696394 please feedback at http://feedback.mail.126.com/antispam/complain.php?user=rtm_ideal@163.com
+
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:2108) ~[mail-1.4.7.jar:1.4.7]
+	at com.sun.mail.smtp.SMTPTransport.mailFrom(SMTPTransport.java:1609) ~[mail-1.4.7.jar:1.4.7]
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1117) ~[mail-1.4.7.jar:1.4.7]
+	at javax.mail.Transport.send0(Transport.java:195) ~[mail-1.4.7.jar:1.4.7]
+	at javax.mail.Transport.send(Transport.java:124) ~[mail-1.4.7.jar:1.4.7]
+	at com.ideal.bigdata.rtm.sale.internal.mail.EmailServer.smtp(EmailServer.java:95) ~[rtm-sale-1.0.0.jar:na]
+	at com.ideal.bigdata.rtm.sale.SendEmailServiceBean$Worker.run(SendEmailServiceBean.java:118) ~[rtm-sale-1.0.0.jar:na]
+[2015-05-27 11:07:27,091][SendEmailService.Worker][dEmailService.Worker][ERROR][.rtm.sale.SendEmailServiceBean]-send mail error
+com.sun.mail.smtp.SMTPSendFailedException: 554 MI:SPB UserReject 0,smtp8,DMCowEBJU0JKNmVV84LDAw--.41S2 1432696395 please feedback at http://feedback.mail.126.com/antispam/complain.php?user=rtm_ideal@163.com
+
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:2108) ~[mail-1.4.7.jar:1.4.7]
+	at com.sun.mail.smtp.SMTPTransport.mailFrom(SMTPTransport.java:1609) ~[mail-1.4.7.jar:1.4.7]
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1117) ~[mail-1.4.7.jar:1.4.7]
+	at javax.mail.Transport.send0(Transport.java:195) ~[mail-1.4.7.jar:1.4.7]
+	at javax.mail.Transport.send(Transport.java:124) ~[mail-1.4.7.jar:1.4.7]
+	at com.ideal.bigdata.rtm.sale.internal.mail.EmailServer.smtp(EmailServer.java:95) ~[rtm-sale-1.0.0.jar:na]
+	at com.ideal.bigdata.rtm.sale.SendEmailServiceBean$Worker.run(SendEmailServiceBean.java:118) ~[rtm-sale-1.0.0.jar:na]
+[2015-05-27 11:07:42,534][SendEmailService.Worker][dEmailService.Worker][ERROR][.rtm.sale.SendEmailServiceBean]-send mail error
+com.sun.mail.smtp.SMTPSendFailedException: 554 MI:SPB UserReject 0,smtp8,DMCowEAJx0RLNmVVGoPDAw--.1090S2 1432696410 please feedback at http://feedback.mail.126.com/antispam/complain.php?user=rtm_ideal@163.com
+
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:2108) ~[mail-1.4.7.jar:1.4.7]
+	at com.sun.mail.smtp.SMTPTransport.mailFrom(SMTPTransport.java:1609) ~[mail-1.4.7.jar:1.4.7]
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1117) ~[mail-1.4.7.jar:1.4.7]
+	at javax.mail.Transport.send0(Transport.java:195) ~[mail-1.4.7.jar:1.4.7]
+	at javax.mail.Transport.send(Transport.java:124) ~[mail-1.4.7.jar:1.4.7]
+	at com.ideal.bigdata.rtm.sale.internal.mail.EmailServer.smtp(EmailServer.java:95) ~[rtm-sale-1.0.0.jar:na]
+	at com.ideal.bigdata.rtm.sale.SendEmailServiceBean$Worker.run(SendEmailServiceBean.java:118) ~[rtm-sale-1.0.0.jar:na]
+[2015-05-27 11:07:43,788][SendEmailService.Worker][dEmailService.Worker][ERROR][.rtm.sale.SendEmailServiceBean]-send mail error
+com.sun.mail.smtp.SMTPSendFailedException: 554 MI:SPB UserReject 0,smtp9,DcCowAA3f39bNmVV3yHJAw--.43531S2 1432696412 please feedback at http://feedback.mail.126.com/antispam/complain.php?user=rtm_ideal@163.com
+
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:2108) ~[mail-1.4.7.jar:1.4.7]
+	at com.sun.mail.smtp.SMTPTransport.mailFrom(SMTPTransport.java:1609) ~[mail-1.4.7.jar:1.4.7]
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1117) ~[mail-1.4.7.jar:1.4.7]
+	at javax.mail.Transport.send0(Transport.java:195) ~[mail-1.4.7.jar:1.4.7]
+	at javax.mail.Transport.send(Transport.java:124) ~[mail-1.4.7.jar:1.4.7]
+	at com.ideal.bigdata.rtm.sale.internal.mail.EmailServer.smtp(EmailServer.java:95) ~[rtm-sale-1.0.0.jar:na]
+	at com.ideal.bigdata.rtm.sale.SendEmailServiceBean$Worker.run(SendEmailServiceBean.java:118) ~[rtm-sale-1.0.0.jar:na]
+[2015-05-27 11:07:45,063][SendEmailService.Worker][dEmailService.Worker][ERROR][.rtm.sale.SendEmailServiceBean]-send mail error
+com.sun.mail.smtp.SMTPSendFailedException: 554 MI:SPB UserReject 0,smtp9,DcCowAAnRI1cNmVVRiLJAw--.43708S2 1432696414 please feedback at http://feedback.mail.126.com/antispam/complain.php?user=rtm_ideal@163.com
+
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:2108) ~[mail-1.4.7.jar:1.4.7]
+	at com.sun.mail.smtp.SMTPTransport.mailFrom(SMTPTransport.java:1609) ~[mail-1.4.7.jar:1.4.7]
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1117) ~[mail-1.4.7.jar:1.4.7]
+	at javax.mail.Transport.send0(Transport.java:195) ~[mail-1.4.7.jar:1.4.7]
+	at javax.mail.Transport.send(Transport.java:124) ~[mail-1.4.7.jar:1.4.7]
+	at com.ideal.bigdata.rtm.sale.internal.mail.EmailServer.smtp(EmailServer.java:95) ~[rtm-sale-1.0.0.jar:na]
+	at com.ideal.bigdata.rtm.sale.SendEmailServiceBean$Worker.run(SendEmailServiceBean.java:118) ~[rtm-sale-1.0.0.jar:na]
+[2015-05-27 11:07:49,408][SendEmailService.Worker][dEmailService.Worker][ERROR][.rtm.sale.SendEmailServiceBean]-send mail error
+com.sun.mail.smtp.SMTPSendFailedException: 554 MI:SPB UserReject 0,smtp9,DcCowACnDlNhNmVVniPJAw--.38892S2 1432696418 please feedback at http://feedback.mail.126.com/antispam/complain.php?user=rtm_ideal@163.com
+
+	at com.sun.mail.smtp.SMTPTransport.issueSendCommand(SMTPTransport.java:2108) ~[mail-1.4.7.jar:1.4.7]
+	at com.sun.mail.smtp.SMTPTransport.mailFrom(SMTPTransport.java:1609) ~[mail-1.4.7.jar:1.4.7]
+	at com.sun.mail.smtp.SMTPTransport.sendMessage(SMTPTransport.java:1117) ~[mail-1.4.7.jar:1.4.7]
+	at javax.mail.Transport.send0(Transport.java:195) ~[mail-1.4.7.jar:1.4.7]
+	at javax.mail.Transport.send(Transport.java:124) ~[mail-1.4.7.jar:1.4.7]
+	at com.ideal.bigdata.rtm.sale.internal.mail.EmailServer.smtp(EmailServer.java:95) ~[rtm-sale-1.0.0.jar:na]
+	at com.ideal.bigdata.rtm.sale.SendEmailServiceBean$Worker.run(SendEmailServiceBean.java:118) ~[rtm-sale-1.0.0.jar:na]
+[2015-05-27 11:10:33,234][RMI TCP Connection(68)-172.31.24.3][tion(68)-172.31.24.3][ERROR][nternal.KeywordLibMysqlDAOBean]-editKeywordlib
+com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'LAST_RANK' cannot be null
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:na]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39) ~[na:na]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27) ~[na:na]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513) ~[na:1.6.0_45]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411) ~[na:na]
+	at com.mysql.jdbc.Util.getInstance(Util.java:386) ~[na:na]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1039) ~[na:na]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4096) ~[na:na]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4028) ~[na:na]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2490) ~[na:na]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2651) ~[na:na]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2683) ~[na:na]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2144) ~[na:na]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2444) ~[na:na]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2362) ~[na:na]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2347) ~[na:na]
+	at com.mchange.v2.c3p0.impl.NewProxyPreparedStatement.executeUpdate(NewProxyPreparedStatement.java:105) ~[na:na]
+	at com.ideal.osgi.framework.common.dbpool.helper.NamedParaPreparedStatement.executeUpdate(NamedParaPreparedStatement.java:315) ~[common-connection-pool-1.0.0.jar:na]
+	at com.ideal.bigdata.rtm.lib.internal.KeywordLibMysqlDAOBean.editKeywordlib(KeywordLibMysqlDAOBean.java:126) ~[na:na]
+	at com.ideal.bigdata.rtm.lib.KeywordLibServiceBean.editKeywordlib(KeywordLibServiceBean.java:77) ~[rtm-lib-1.0.0.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39) ~[na:na]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25) ~[na:na]
+	at java.lang.reflect.Method.invoke(Method.java:597) ~[na:1.6.0_45]
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:309) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.doInvoke(ServiceInvoker.java:58) ~[na:na]
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.invoke(ServiceInvoker.java:62) ~[na:na]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invokeUnprivileged(ServiceTCCLInterceptor.java:71) ~[na:na]
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invoke(ServiceTCCLInterceptor.java:54) ~[na:na]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.osgi.service.importer.support.LocalBundleContextAdvice.invoke(LocalBundleContextAdvice.java:59) ~[spring-osgi-core-2.0.0.M1.jar:2.0.0.M1]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at com.sun.proxy.$Proxy48.editKeywordlib(Unknown Source) ~[na:na]
+	at com.ideal.bigdata.rtm.api.internal.KeywordLibApiServiceBean.editKeywordlib(KeywordLibApiServiceBean.java:88) ~[rtm-api-1.0.0.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39) ~[na:na]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25) ~[na:na]
+	at java.lang.reflect.Method.invoke(Method.java:597) ~[na:1.6.0_45]
+	at sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:303) ~[na:na]
+	at sun.rmi.transport.Transport$1.run(Transport.java:159) ~[na:na]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.6.0_45]
+	at sun.rmi.transport.Transport.serviceCall(Transport.java:155) ~[na:na]
+	at sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:535) ~[na:na]
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:790) ~[na:na]
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:649) ~[na:na]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895) ~[na:1.6.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918) ~[na:1.6.0_45]
+	at java.lang.Thread.run(Thread.java:662) ~[na:1.6.0_45]
+[2015-05-27 11:10:33,239][RMI TCP Connection(68)-172.31.24.3][tion(68)-172.31.24.3][ERROR][ernal.KeywordLibApiServiceBean]-RTM KeywordLibApiService editKeywordlib
+com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'LAST_RANK' cannot be null
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:na]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39) ~[na:na]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27) ~[na:na]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513) ~[na:1.6.0_45]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411) ~[na:na]
+	at com.mysql.jdbc.Util.getInstance(Util.java:386) ~[na:na]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1039) ~[na:na]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4096) ~[na:na]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4028) ~[na:na]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2490) ~[na:na]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2651) ~[na:na]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2683) ~[na:na]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2144) ~[na:na]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2444) ~[na:na]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2362) ~[na:na]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2347) ~[na:na]
+	at com.mchange.v2.c3p0.impl.NewProxyPreparedStatement.executeUpdate(NewProxyPreparedStatement.java:105) ~[na:na]
+	at com.ideal.osgi.framework.common.dbpool.helper.NamedParaPreparedStatement.executeUpdate(NamedParaPreparedStatement.java:315) ~[common-connection-pool-1.0.0.jar:na]
+	at com.ideal.bigdata.rtm.lib.internal.KeywordLibMysqlDAOBean.editKeywordlib(KeywordLibMysqlDAOBean.java:126) ~[na:na]
+	at com.ideal.bigdata.rtm.lib.KeywordLibServiceBean.editKeywordlib(KeywordLibServiceBean.java:77) ~[rtm-lib-1.0.0.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39) ~[na:na]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25) ~[na:na]
+	at java.lang.reflect.Method.invoke(Method.java:597) ~[na:1.6.0_45]
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:309) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.doInvoke(ServiceInvoker.java:58) ~[na:na]
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.invoke(ServiceInvoker.java:62) ~[na:na]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invokeUnprivileged(ServiceTCCLInterceptor.java:71) ~[na:na]
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invoke(ServiceTCCLInterceptor.java:54) ~[na:na]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.osgi.service.importer.support.LocalBundleContextAdvice.invoke(LocalBundleContextAdvice.java:59) ~[spring-osgi-core-2.0.0.M1.jar:2.0.0.M1]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at com.sun.proxy.$Proxy48.editKeywordlib(Unknown Source) ~[na:na]
+	at com.ideal.bigdata.rtm.api.internal.KeywordLibApiServiceBean.editKeywordlib(KeywordLibApiServiceBean.java:88) ~[rtm-api-1.0.0.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39) ~[na:na]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25) ~[na:na]
+	at java.lang.reflect.Method.invoke(Method.java:597) ~[na:1.6.0_45]
+	at sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:303) ~[na:na]
+	at sun.rmi.transport.Transport$1.run(Transport.java:159) ~[na:na]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.6.0_45]
+	at sun.rmi.transport.Transport.serviceCall(Transport.java:155) ~[na:na]
+	at sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:535) ~[na:na]
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:790) ~[na:na]
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:649) ~[na:na]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895) ~[na:1.6.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918) ~[na:1.6.0_45]
+	at java.lang.Thread.run(Thread.java:662) ~[na:1.6.0_45]
+[2015-05-27 11:10:44,002][RMI TCP Connection(70)-172.31.24.3][tion(70)-172.31.24.3][ERROR][nternal.KeywordLibMysqlDAOBean]-editKeywordlib
+com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'LAST_RANK' cannot be null
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:na]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39) ~[na:na]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27) ~[na:na]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513) ~[na:1.6.0_45]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411) ~[na:na]
+	at com.mysql.jdbc.Util.getInstance(Util.java:386) ~[na:na]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1039) ~[na:na]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4096) ~[na:na]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4028) ~[na:na]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2490) ~[na:na]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2651) ~[na:na]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2683) ~[na:na]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2144) ~[na:na]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2444) ~[na:na]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2362) ~[na:na]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2347) ~[na:na]
+	at com.mchange.v2.c3p0.impl.NewProxyPreparedStatement.executeUpdate(NewProxyPreparedStatement.java:105) ~[na:na]
+	at com.ideal.osgi.framework.common.dbpool.helper.NamedParaPreparedStatement.executeUpdate(NamedParaPreparedStatement.java:315) ~[common-connection-pool-1.0.0.jar:na]
+	at com.ideal.bigdata.rtm.lib.internal.KeywordLibMysqlDAOBean.editKeywordlib(KeywordLibMysqlDAOBean.java:126) ~[na:na]
+	at com.ideal.bigdata.rtm.lib.KeywordLibServiceBean.editKeywordlib(KeywordLibServiceBean.java:77) ~[rtm-lib-1.0.0.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39) ~[na:na]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25) ~[na:na]
+	at java.lang.reflect.Method.invoke(Method.java:597) ~[na:1.6.0_45]
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:309) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.doInvoke(ServiceInvoker.java:58) ~[na:na]
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.invoke(ServiceInvoker.java:62) ~[na:na]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invokeUnprivileged(ServiceTCCLInterceptor.java:71) ~[na:na]
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invoke(ServiceTCCLInterceptor.java:54) ~[na:na]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.osgi.service.importer.support.LocalBundleContextAdvice.invoke(LocalBundleContextAdvice.java:59) ~[spring-osgi-core-2.0.0.M1.jar:2.0.0.M1]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at com.sun.proxy.$Proxy48.editKeywordlib(Unknown Source) ~[na:na]
+	at com.ideal.bigdata.rtm.api.internal.KeywordLibApiServiceBean.editKeywordlib(KeywordLibApiServiceBean.java:88) ~[rtm-api-1.0.0.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39) ~[na:na]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25) ~[na:na]
+	at java.lang.reflect.Method.invoke(Method.java:597) ~[na:1.6.0_45]
+	at sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:303) ~[na:na]
+	at sun.rmi.transport.Transport$1.run(Transport.java:159) ~[na:na]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.6.0_45]
+	at sun.rmi.transport.Transport.serviceCall(Transport.java:155) ~[na:na]
+	at sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:535) ~[na:na]
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:790) ~[na:na]
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:649) ~[na:na]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895) ~[na:1.6.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918) ~[na:1.6.0_45]
+	at java.lang.Thread.run(Thread.java:662) ~[na:1.6.0_45]
+[2015-05-27 11:10:44,008][RMI TCP Connection(70)-172.31.24.3][tion(70)-172.31.24.3][ERROR][ernal.KeywordLibApiServiceBean]-RTM KeywordLibApiService editKeywordlib
+com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Column 'LAST_RANK' cannot be null
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[na:na]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:39) ~[na:na]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:27) ~[na:na]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:513) ~[na:1.6.0_45]
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:411) ~[na:na]
+	at com.mysql.jdbc.Util.getInstance(Util.java:386) ~[na:na]
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:1039) ~[na:na]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4096) ~[na:na]
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:4028) ~[na:na]
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2490) ~[na:na]
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2651) ~[na:na]
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2683) ~[na:na]
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:2144) ~[na:na]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2444) ~[na:na]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2362) ~[na:na]
+	at com.mysql.jdbc.PreparedStatement.executeUpdate(PreparedStatement.java:2347) ~[na:na]
+	at com.mchange.v2.c3p0.impl.NewProxyPreparedStatement.executeUpdate(NewProxyPreparedStatement.java:105) ~[na:na]
+	at com.ideal.osgi.framework.common.dbpool.helper.NamedParaPreparedStatement.executeUpdate(NamedParaPreparedStatement.java:315) ~[common-connection-pool-1.0.0.jar:na]
+	at com.ideal.bigdata.rtm.lib.internal.KeywordLibMysqlDAOBean.editKeywordlib(KeywordLibMysqlDAOBean.java:126) ~[na:na]
+	at com.ideal.bigdata.rtm.lib.KeywordLibServiceBean.editKeywordlib(KeywordLibServiceBean.java:77) ~[rtm-lib-1.0.0.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39) ~[na:na]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25) ~[na:na]
+	at java.lang.reflect.Method.invoke(Method.java:597) ~[na:1.6.0_45]
+	at org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:309) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.doInvoke(ServiceInvoker.java:58) ~[na:na]
+	at org.springframework.osgi.service.importer.support.internal.aop.ServiceInvoker.invoke(ServiceInvoker.java:62) ~[na:na]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invokeUnprivileged(ServiceTCCLInterceptor.java:71) ~[na:na]
+	at org.springframework.osgi.service.util.internal.aop.ServiceTCCLInterceptor.invoke(ServiceTCCLInterceptor.java:54) ~[na:na]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.osgi.service.importer.support.LocalBundleContextAdvice.invoke(LocalBundleContextAdvice.java:59) ~[spring-osgi-core-2.0.0.M1.jar:2.0.0.M1]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.doProceed(DelegatingIntroductionInterceptor.java:131) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.support.DelegatingIntroductionInterceptor.invoke(DelegatingIntroductionInterceptor.java:119) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:172) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:202) ~[org.springframework.aop-3.0.6.RELEASE.jar:3.0.6.RELEASE]
+	at com.sun.proxy.$Proxy48.editKeywordlib(Unknown Source) ~[na:na]
+	at com.ideal.bigdata.rtm.api.internal.KeywordLibApiServiceBean.editKeywordlib(KeywordLibApiServiceBean.java:88) ~[rtm-api-1.0.0.jar:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[na:na]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39) ~[na:na]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25) ~[na:na]
+	at java.lang.reflect.Method.invoke(Method.java:597) ~[na:1.6.0_45]
+	at sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:303) ~[na:na]
+	at sun.rmi.transport.Transport$1.run(Transport.java:159) ~[na:na]
+	at java.security.AccessController.doPrivileged(Native Method) ~[na:1.6.0_45]
+	at sun.rmi.transport.Transport.serviceCall(Transport.java:155) ~[na:na]
+	at sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:535) ~[na:na]
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:790) ~[na:na]
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:649) ~[na:na]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.runTask(ThreadPoolExecutor.java:895) ~[na:1.6.0_45]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:918) ~[na:1.6.0_45]
+	at java.lang.Thread.run(Thread.java:662) ~[na:1.6.0_45]

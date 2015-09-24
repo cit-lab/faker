@@ -1,0 +1,150 @@
+2015-03-18 14:23:48 o.m.log [INFO] Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2015-03-18 14:23:48 o.m.log [INFO] jetty-6.1.26
+2015-03-18 14:23:48 o.m.log [INFO] Started SocketConnector@0.0.0.0:8082
+2015-03-18 14:23:57 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-03-18 14:24:02 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-03-18 14:24:10 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-03-18 14:26:29 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-03-18 14:26:29 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-03-18 14:26:31 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-04-07 14:34:25 o.m.log [INFO] Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2015-04-07 14:34:25 o.m.log [INFO] jetty-6.1.26
+2015-04-07 14:34:25 o.m.log [WARN] failed SocketConnector@0.0.0.0:8082: java.net.BindException: Address already in use
+2015-04-07 14:34:25 o.m.log [WARN] failed Server@28f337b: java.net.BindException: Address already in use
+2015-04-07 14:36:36 o.m.log [INFO] Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2015-04-07 14:36:36 o.m.log [INFO] jetty-6.1.26
+2015-04-07 14:36:36 o.m.log [WARN] failed SocketConnector@0.0.0.0:8082: java.net.BindException: Address already in use
+2015-04-07 14:36:36 o.m.log [WARN] failed Server@77cd18d: java.net.BindException: Address already in use
+2015-04-07 14:44:32 o.m.log [INFO] Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2015-04-07 14:44:32 o.m.log [INFO] jetty-6.1.26
+2015-04-07 14:44:32 o.m.log [WARN] failed SocketConnector@0.0.0.0:8082: java.net.BindException: Address already in use
+2015-04-07 14:44:32 o.m.log [WARN] failed Server@50d55a0f: java.net.BindException: Address already in use
+2015-04-07 14:46:57 o.m.log [INFO] Logging to Logger[org.mortbay.log] via org.mortbay.log.Slf4jLog
+2015-04-07 14:46:57 o.m.log [INFO] jetty-6.1.26
+2015-04-07 14:46:57 o.m.log [INFO] Started SocketConnector@0.0.0.0:8088
+2015-04-07 14:47:24 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-04-07 14:51:01 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-04-07 14:52:34 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-04-07 14:52:37 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-04-07 14:55:21 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-04-07 14:55:24 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-04-07 14:59:55 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-04-07 15:19:00 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-04-07 15:32:20 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-04-07 15:42:35 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-04-07 15:42:40 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-04-07 16:09:39 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-04-07 16:09:43 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-04-07 16:09:45 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-04-16 14:23:52 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-04-23 09:23:04 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-04-27 14:41:28 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-04-30 14:56:52 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-07 09:55:36 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-07 14:58:20 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-07 14:58:37 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-08 14:31:32 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-12 15:01:04 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-12 15:01:04 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-12 15:01:04 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-13 11:03:20 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-13 11:05:21 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-14 15:17:59 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-14 16:06:02 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-14 16:08:29 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-14 16:11:40 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 09:04:53 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 14:29:15 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 14:38:02 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 14:40:03 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:10:49 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:10:57 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:11:29 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:11:38 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:11:39 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:11:42 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:11:59 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:12:09 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:12:50 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:12:50 b.s.u.core [INFO] Killing topology 'RTM-TEST' with wait time: 0 secs
+2015-05-15 15:12:50 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:12:51 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:12:55 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:20:58 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:21:00 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:22:12 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:22:12 b.s.u.core [INFO] Killing topology 'RTM-TEST' with wait time: 0 secs
+2015-05-15 15:22:13 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:22:13 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:27:00 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:27:46 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:27:48 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:27:59 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:28:01 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:28:23 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:28:23 b.s.u.core [INFO] Killing topology 'RTM-TEST' with wait time: 0 secs
+2015-05-15 15:28:24 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:28:25 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:42:06 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:42:08 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:42:14 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:42:15 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:42:21 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:42:22 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:43:39 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:43:41 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:43:57 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:43:59 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:45:41 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:45:41 b.s.u.core [INFO] Killing topology 'RTM-TEST' with wait time: 0 secs
+2015-05-15 15:45:42 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:45:42 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:52:33 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:52:34 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:52:36 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:52:43 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:52:50 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:52:53 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:52:55 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:52:58 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:52:59 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:53:11 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:53:15 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:53:27 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:53:27 b.s.u.core [INFO] Killing topology 'RTM-TEST' with wait time: 0 secs
+2015-05-15 15:53:27 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:53:28 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 15:55:09 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 16:15:20 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 16:26:15 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-15 16:57:49 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-18 16:00:02 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-18 16:01:35 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-18 16:04:43 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-19 11:05:48 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-19 14:02:11 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-22 14:03:49 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-25 15:11:04 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-26 08:47:25 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-26 08:58:05 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-26 14:32:13 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-26 14:54:44 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-26 14:54:46 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-26 14:56:27 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-26 14:56:32 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-26 14:56:35 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-26 15:42:07 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-27 09:25:09 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-27 10:55:47 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-27 10:58:42 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-27 10:58:49 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-27 10:59:10 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-27 10:59:12 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-27 10:59:17 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-27 10:59:19 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-27 11:00:27 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-27 11:00:29 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-27 11:04:00 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-27 11:04:02 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-27 11:04:06 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
+2015-05-27 11:04:08 b.s.thrift [INFO] Connecting to Nimbus at bigdata4:6627
