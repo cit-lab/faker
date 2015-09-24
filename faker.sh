@@ -3,18 +3,18 @@ cwd=$(pwd)
 now=$(date +"%Y_%m_%d")
 SERVICE_NAME=faker
 PID_PATH_NAME=${cwd}/etc/${SERVICE_NAME}.pid
-ERROR_LOG=log/${SERVICE_NAME}-${now}.err
-OUT_LOG=log/${SERVICE_NAME}-${now}.out
+ERROR_LOG=log/${SERVICE_NAME}-${now}.err.log
+OUT_LOG=log/${SERVICE_NAME}-${now}.out.log
 
 run() {
     mvn package
-    java -jar -Dlogback.configurationFile=etc/logback.xml target/faker-0.1.jar
+    java -jar -Dlogback.configurationFile=$1 target/faker-0.1.jar $2
 }
 
 start() {
     echo "Starting ${SERVICE_NAME} ..."
     if [ ! -f ${PID_PATH_NAME} ]; then
-        nohup java -jar target/faker-0.1.jar > ${OUT_LOG} 2>${ERROR_LOG} & echo $! > ${PID_PATH_NAME}
+        nohup java -jar -Dlogback.configurationFile=$1 target/faker-0.1.jar $2 > ${OUT_LOG} 2>${ERROR_LOG} & echo $! > ${PID_PATH_NAME}
         echo "${SERVICE_NAME} started"
     else
         echo "${SERVICE_NAME} is already running"
@@ -38,16 +38,16 @@ case $1 in
         config
     ;;
     run)
-        run
+        run $2 $3
     ;;
     start)
-        start
+        start $2 $3
     ;;
     stop)
         stop
     ;;
     restart)
         stop
-        start
+        start $2 $3
     ;;
 esac

@@ -21,8 +21,9 @@ public class Faker {
         LOGGER.warn("Warn");
         LOGGER.error("Error", new Exception("Test exception"));
 
-        // generate fake rtm log
-        XMLConfiguration configuration = new XMLConfiguration("etc/faker.xml");
+        String fakerXml = args[0];
+        LOGGER.info("faker.xml " + fakerXml);
+        XMLConfiguration configuration = new XMLConfiguration(fakerXml);
         List<HierarchicalConfiguration> fakersConfig = configuration.configurationsAt("fakers.faker");
         for (Iterator it = fakersConfig.iterator(); it.hasNext(); ) {
             HierarchicalConfiguration config = (HierarchicalConfiguration) it.next();

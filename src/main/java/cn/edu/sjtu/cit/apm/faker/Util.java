@@ -15,8 +15,6 @@ public class Util {
         List<String> s = new ArrayList<String>();
         for (Iterator it = configurations.iterator(); it.hasNext(); ) {
             HierarchicalConfiguration configuration = (HierarchicalConfiguration) it.next();
-//            s.add(configuration.getString("."));
-//            System.out.println(configuration.getString("."));
             s.add(configuration.getString("."));
         }
         return s;
