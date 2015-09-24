@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fakers-wrap>
+    <fakers>
+        <faker>
+            <type>log</type>
+            <interval>1000</interval>
+            <level>info</level>
+            <messages>
+                <message>Hi </message>
+                <message>come on </message>
+                <message>oh la la </message>
+                <message>wtf </message>
+            </messages>
+        </faker>
+        <faker>
+            <type>log</type>
+            <!-- time in ms -->
+            <interval>2000</interval>
+            <level>warn</level>
+            <messages>
+                <message>server no response</message>
+                <message>dangerous action</message>
+            </messages>
+        </faker>
+        <faker>
+            <type>log</type>
+            <interval>5000</interval>
+            <level>error</level>
+            <exceptions>
+                <exception>exception</exception>
+                <exception>io</exception>
+                <exception>null</exception>
+            </exceptions>
+        </faker>
+    </fakers>
+</fakers-wrap>
