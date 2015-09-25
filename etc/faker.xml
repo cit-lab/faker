@@ -6,10 +6,11 @@
             <interval>1000</interval>
             <level>info</level>
             <messages>
-                <message>Hi </message>
-                <message>come on </message>
-                <message>oh la la </message>
-                <message>wtf </message>
+                <message>Processing message</message>
+                <message>Processing finished</message>
+                <message>Evaluating critical boundaries</message>
+                <message>Searching for useful data</message>
+                <message>Search complete</message>
             </messages>
         </faker>
         <faker>
@@ -20,6 +21,7 @@
             <messages>
                 <message>server no response</message>
                 <message>dangerous action</message>
+                <message>no user selected!</message>
             </messages>
         </faker>
         <faker>
